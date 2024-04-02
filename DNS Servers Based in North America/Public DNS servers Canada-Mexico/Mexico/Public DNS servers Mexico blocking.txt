@@ -1,0 +1,306 @@
+ISP and Public DNS Servers Based in Mexico
+==================================================================================
+                                    Country: Mexico
+==================================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/mx
+public-dns.info: https://public-dns.info/nameserver/mx.html
+
+==================================================================================
+Alestra, S. de R.L. de C.V.
+==================================================================================
+
+Location:
+San Nicolas de los Garza, Nuevo Leon
+Monterrey, Nuevo Leon
+Cuernavaca, Morelos
+San Luis Potosí City, Ciudad de México
+
+IPv4:
+207.248.224.72
+207.248.224.71
+200.76.5.147
+200.94.26.115
+
+Domains:
+dns-cache-mty2.alestra.net.mx
+dns-cache-mty1.alestra.net.mx
+dns-cache-gdl.alestra.net.mx
+env2.b-enlinea.mx
+
+==================================================================================
+Abastecedora de Conectividad, S.A. de C.V.
+==================================================================================
+
+Location:
+Queretaro, Queretaro
+
+IPv4:
+201.158.2.86
+
+==================================================================================
+ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.
+==================================================================================
+
+Location:
+Aguascalientes, Ciudad de México
+
+IPv4:
+189.201.188.125 
+189.201.189.2
+
+Domains:
+ptr.reditmx.com
+
+==================================================================================
+Axtel, S.A.B. de C.V.
+==================================================================================
+
+Location:
+Mexico City, Ciudad de México
+San Pedro, Nuevo Leon
+
+IPv4:
+189.208.19.247 
+189.213.136.70
+200.236.97.157 
+
+Domains:
+wimax-cpe-189-208-19-247.gdljal.static.axtel.net
+189-213-136-70.static.axtel.net
+
+==================================================================================
+Cablemas Telecomunicaciones SA de CV
+==================================================================================
+
+Location:
+Mérida, Yucatan
+
+IPv4:
+187.252.154.90
+
+Domains:
+187.252.154.90.cable.dyn.cableonline.com.mx
+
+==================================================================================
+DISTROKOM S DE RL DE CV
+==================================================================================
+
+Location:
+Tijuana, Baja California
+
+IPv4:
+45.231.223.250 
+
+Domains:
+45-231-223-250.dyn.distrokom.net
+
+==================================================================================
+Marcatel Com, S.A. de C.V.
+==================================================================================
+
+Location:
+Monterrey, Nuevo Leon
+
+IPv4:
+200.56.224.11
+
+Domains:
+ns.marcatel.com.mx
+
+==================================================================================
+Mega Cable, S.A. de C.V.
+==================================================================================
+
+Location:
+Matias Romero, Oaxaca
+Hermosillo, Sonora
+Uruapan, Michoacán 
+Tehuacán, Puebla 
+
+IPv4:
+189.195.157.30
+187.243.253.182 
+177.241.250.250 
+201.132.162.254 
+200.77.121.214 
+187.243.250.197 
+
+Domains:
+customer-VER-MCA-121-214.megared.net.mx
+customer-MCA-MZT-250-197.megared.net.mx
+customer-SCRZ-157-30.megared.net.mx
+customer-MCA-COB-253-182.megared.net.mx
+customer-MCA-URUA-250-250.megared.net.mx
+customer-PUE-MCA-162-254.megared.net.mx
+
+==================================================================================
+Megacable Comunicaciones de Mexico, S.A. de C.V.
+==================================================================================
+
+Locations:
+Mexico City, Ciudad de Mexico
+
+IPv4:
+201.149.3.110
+
+Domains:
+mail.centralparkinterlomas.com
+
+==================================================================================
+Operbes, S.A. de C.V.
+==================================================================================
+
+Location:
+Alvaro Obregon, Chiapas
+Ecatepec, Ciudad de México 
+
+IPv4:
+200.57.2.108
+200.57.7.61
+201.140.114.161
+201.148.95.234 
+
+Domains:
+dns1.bestel.com.mx
+dns2.bestel.com.mx
+dns4.bestel.com.mx
+dns5.bestel.com.mx
+
+==================================================================================
+Pegaso PCS, S.A. de C.V.
+==================================================================================
+
+Locations:
+Tlaxco 
+
+IPv4:
+201.162.219.253
+
+Domains:
+pc201162219253.optele.net
+
+==================================================================================
+Senal Interactiva, S.A De C.V
+==================================================================================
+
+Location:
+Monclova, Coahuila
+
+IPv4:
+45.5.92.94 
+45.5.94.182 
+
+Domains:
+slw.nrtmexico.mx
+
+==================================================================================
+Television Internacional, S.A. de C.V.
+==================================================================================
+
+Location:
+Mexico City, Ciudad de Mexico
+Mazapil, Zacatecas 
+Monterrey, Nuevo Leon 
+
+IPv4:
+207.248.57.11
+207.248.57.10
+200.188.151.212 
+
+Domains:
+dns2.telumasp.net
+dns1.telumasp.net
+CableLink-200-188-151-212.Hosts.Cablevision.com.mx
+
+==================================================================================
+Transtelco Inc
+==================================================================================
+
+Location:
+Juarez, Nuevo Leon
+
+IPv4:
+201.174.34.194
+201.174.34.195
+
+Domains:
+201-174-34-194.transtelco.net
+201-174-34-195.transtelco.net
+
+==================================================================================
+TOTAL PLAY TELECOMUNICACIONES SA DE CV
+==================================================================================
+
+Location:
+Mexico City, Ciudad de Mexico
+Oaxaca City, Centro
+Chihuahua City, Mexico 
+La Canada, Querétaro 
+
+IPv4:
+187.188.112.16
+189.203.10.213 
+187.189.53.110 
+187.190.226.203 
+187.188.175.225 
+187.189.75.147 
+
+Domains:
+fixed-187-188-112-16.totalplay.net
+fixed-187-188-175-225.totalplay.net
+fixed-187-188-169-169.totalplay.net
+fixed-187-189-75-147.totalplay.net
+fixed-187-189-53-110.totalplay.net
+fixed-187-190-226-203.totalplay.net
+
+==================================================================================
+Uninet S.A. de C.V.
+==================================================================================
+
+Location:
+Mexico City, Ciudad de Mexico
+Chetumal, Quintana Roo
+Tapachula, Chiapas
+Monterrey, Nuevo Leon
+Tlalnepantla, Morelos
+Playa del Carmen, Quintana Roo
+San Jose del Cabo, Baja California Sur
+León, Guanajuato
+Puebla City, Mexico
+Guadalupe, Basílica de Guadalupe
+Centro, Ciudad de Mexico
+Iztapalapa, Ciudad de Mexico
+
+IPv4:
+148.223.14.148
+201.144.135.211
+192.100.164.125
+187.157.46.210
+201.116.184.131
+187.141.108.200
+187.141.85.108
+201.134.115.36
+201.144.54.2
+201.117.254.241 
+189.165.87.125 
+201.116.184.131 
+201.144.94.245 
+201.144.14.229 
+187.193.109.209
+
+Domains:
+customer-148-223-14-130.uninet-ide.com.mx
+static.customer-201-144-135-211.uninet-ide.com.mx
+nsuqroo.uqroo.mx
+customer-187-157-46-210-sta.uninet-ide.com.mx
+ipmmail01.ipmaltamira.com.mx
+customer-201-134-115-36.uninet-ide.com.mx
+static.customer-201-144-54-2.uninet-ide.com.mx
+static.customer-201-144-14-229.uninet-ide.com.mx
+dsl-187-193-109-209-dyn.prod-infinitum.com.mx
+customer-201-117-254-241.uninet-ide.com.mx
+dsl-189-165-87-125-dyn.prod-infinitum.com.mx
+customer-187-157-46-210-sta.uninet-ide.com.mx
+nsbal-mex-vallejo-3.uninet.net.mx
