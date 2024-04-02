@@ -1,0 +1,32 @@
+ISP and Public DNS Servers Based in Bhutan
+========================================================================
+                                Country: Bhutan
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/bt
+public-dns.info: https://public-dns.info/nameserver/bt.html
+
+========================================================================
+Bhutan National Bank limited
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+103.119.126.68
+
+Domains:
+ns1.bnb.bt
+
+========================================================================
+TashiCell Domestic AS, Thimphu, Bhutan
+========================================================================
+
+Locations:
+Thimphu, Thimphu
+
+IPv4:
+103.29.225.241
+

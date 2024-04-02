@@ -1,0 +1,19 @@
+ISP and Public DNS Servers Based in Turkmenistan
+========================================================================
+                                Country: Turkmenistan
+========================================================================
+
+Sources:
+dnschecker.org (Turkmenistan): https://dnschecker.org/public-dns/tm
+
+========================================================================
+State Company of Electro Communications Turkmentelecom
+========================================================================
+
+Locations:
+Turkmenbasy, Balkan
+Ashgabat, Ahal
+
+IPv4:
+95.85.108.141
+217.174.226.78

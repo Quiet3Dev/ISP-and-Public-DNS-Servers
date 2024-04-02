@@ -1,0 +1,37 @@
+# ISP and Public DNS Servers Based in Macao
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                               # Country: Macao
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/mo
+# public-dns.info: https://public-dns.info/nameserver/mo.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+182.93.14.178
+202.175.45.2
+202.175.66.122
+202.86.191.50
+202.86.149.20
+202.175.82.179
+202.175.113.124
+202.86.133.35 
+202.175.81.160 
+
+========================================================================
+# Domains:
+========================================================================
+
+n18293z14l178.static.ctmip.net
+ml310.redcross.org.mo
+z66l122.static.ctm.net
+n20286z191l50.static.ctmip.net
+n20286z149l20.static.ctmip.net
+z82l179.static.ctm.net
+z113l124.static.ctm.net
+n20286z133l35.static.ctmip.net
+z81l160.static.ctm.net

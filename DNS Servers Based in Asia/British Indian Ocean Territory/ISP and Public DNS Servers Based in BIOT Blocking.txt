@@ -1,0 +1,14 @@
+# ISP and Public DNS Servers Based in British Indian Ocean Territory (Chagos Archipelago)
+# Designed to Block ISP and Public DNS Servers
+========================================================================
+           # Country: British Indian Ocean Territory (Chagos Archipelago)
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/io
+
+========================================================================
+# IPv4:
+========================================================================
+
+202.44.113.14

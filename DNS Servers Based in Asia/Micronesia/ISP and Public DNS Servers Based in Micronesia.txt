@@ -1,0 +1,20 @@
+ISP and Public DNS Servers Based in Micronesia 
+========================================================================
+                                Country: Micronesia
+========================================================================
+
+Sources:
+public-dns.info: https://public-dns.info/nameserver/fm.html
+
+========================================================================
+FSM Telecommunications Corporation
+========================================================================
+
+Locations:
+State of Pohnpei, Micronesia
+
+IPv4:
+119.252.118.7 
+
+Domains:
+usda-rd.vdsl.fsmtc.fm

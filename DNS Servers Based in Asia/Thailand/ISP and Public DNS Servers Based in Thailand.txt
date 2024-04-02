@@ -1,0 +1,635 @@
+ISP and Public DNS Servers Based in Thailand 
+========================================================================
+                                Country: Thailand 
+========================================================================
+
+Sources:
+dnschecker.org (Thailand): https://dnschecker.org/public-dns/th
+public-dns.info: https://public-dns.info/nameserver/th.html
+
+========================================================================
+408 Fl4 CATTOWER
+========================================================================
+
+Locations:
+Bang Bon, Bangkok
+
+IPv4:
+103.13.29.65 
+43.229.132.105
+
+========================================================================
+AIS Fibre
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+49.0.93.59 
+58.136.3.100
+
+Domains:
+49-0-93-0.24.fixed-public.pyof-mser.myaisfibre.com
+
+========================================================================
+Bangmod Enterprise Co., Ltd.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+103.27.201.95 
+103.27.202.89 
+
+Domains:
+hostings.ruk-com.in.th
+103-27-202-89.static.bangmod-idc.com
+
+========================================================================
+Chulalongkorn University
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+Nonthaburi, Nonthaburi
+
+IPv4:
+161.200.96.9
+202.29.218.138 
+202.29.223.62 
+
+Domains:
+md9.md.chula.ac.th
+
+========================================================================
+Chiangmai Rajabhat University
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+202.29.60.171 
+
+========================================================================
+CAT TELECOM Public Company Ltd,CAT
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+Kap Choeng, Surin
+Sing Buri, Thailand
+Bang Bon, Bangkok
+Si Racha, Chon Buri
+Ban Ko Wiwatthana, Bangkok
+
+IPv4:
+110.77.142.211
+110.77.151.42
+159.192.104.53
+61.7.159.133
+159.192.97.156 
+159.192.147.186 
+159.192.131.178 
+61.7.141.30 
+134.236.242.161 
+116.58.239.19 
+110.78.164.234 
+110.78.186.32
+110.77.232.30 
+
+========================================================================
+CS LOXINFO PUBLIC COMPANY LIMITED
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+203.146.237.222
+203.146.237.237
+
+Domains:
+ns02.csloxinfo.com
+ns01.csloxinfo.com
+
+========================================================================
+Internet Data Center Service 	
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+180.180.247.37
+180.180.247.41
+180.180.247.42
+180.180.247.43
+180.180.247.38
+
+Domains:
+ns1.totonline.net
+ns2.totonline.net
+ns4.totonline.net
+cwt-mgmtdns-totidc.net
+ns3.totonline.net
+
+========================================================================
+Internet Thailand Company Limited
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+203.150.221.224 
+203.150.128.192 
+
+Domains:
+nc-vpn-hq-224.cat.inet.co.th
+192.128.150.203.sta.inet.co.th
+
+========================================================================
+Jasmine Internet Co, Ltd.
+========================================================================
+
+Locations:
+Mueang Nonthaburi, Nonthaburi
+
+IPv4:
+203.147.7.7
+
+========================================================================
+JasTel Network
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+58.82.154.3 
+
+Domains:
+3.154.82.58.static-corp.jastel.co.th
+
+========================================================================
+KSC Commercial Internet Co. Ltd.
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+58.181.251.92
+
+========================================================================
+King Mongkut's Institute of Technology North Bangkok 	
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+202.44.32.29
+202.44.45.11
+202.14.164.9 
+
+Domains:
+ns1.kmutnb.ac.th
+ns3.kmutnb.ac.th
+advance.ddos.infoblox
+ns2.kmutnb.ac.th
+
+========================================================================
+Milcom Co., Ltd. Internet Service Provider Bangkok
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+202.182.0.1
+
+========================================================================
+MinetHost Co. LTD
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+191.101.184.249
+
+Domains:
+191-101-184-249.static.idc.minethost.com
+
+========================================================================
+NIPA TECHNOLOGY CO., LTD
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+139.5.146.125 
+
+Domains:
+rev-dns-cloud-bkk-125-146-5-139-th.nipa.cloud
+
+========================================================================
+POPIDC powered by CSLoxinfo
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+103.7.58.94 
+
+Domains:
+103-7-58-94.idc.pop-idc.com
+
+========================================================================
+Symphony Communication Thailand PCL.
+========================================================================
+
+Locations:
+Si Racha, Chon Buri
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+96.30.79.84 
+119.110.209.94 
+
+Domains:
+static-119-110-209-94.violin.co.th
+
+========================================================================
+SBN-ISPAWN-ISP and SBN-NIXAWN-NIX
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+49.231.140.120 
+49.231.140.122
+184.82.128.211 
+
+========================================================================
+ServeNET Solution Limited Partnership
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+124.109.2.140
+
+========================================================================
+Thailand Public backbone Network
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+202.44.204.36
+
+Domains:
+nscache1.nectec.or.th
+
+========================================================================
+TOT Public Company Limited
+========================================================================
+
+Locations:
+Tha Sae, Chumphon
+Sangkhom, Nong Khai
+Rayong, Rayong
+Udon Thani, Thailand
+Pattani, Thailand
+Chiang Mai, Thailand
+Sam Chuk, Suphan Buri
+Ban Tha Khoi, Nakhon
+Samut Sakhon, Samut Sakhon
+Nakhon Pathom, Nakhon Pathom
+Ban Ko Bon, Bangkok
+Dan Sai, Loei
+Lao Khwan, Kanchanaburi
+Ratchaburi, Thailand
+Bangkok, Krung Thep Maha Nakhon
+Kantang, Trang
+Chumphon, Thailand
+Phichit, Songkhla
+Khwaeng Bang O, Bangkok
+Phetchabun, Thailand
+Bang Bon, Bangkok
+
+IPv4:
+1.10.133.39
+1.20.151.94
+1.1.141.60
+1.1.141.111
+1.1.141.88
+1.1.141.59
+1.1.141.194
+1.1.141.52
+1.1.141.28
+1.1.141.178
+1.1.141.84
+1.1.141.93
+1.1.141.196
+1.1.141.109
+1.1.141.137
+1.1.141.76
+1.1.141.123
+1.1.141.213
+1.1.141.177
+1.1.141.17
+1.1.141.20
+1.1.141.197
+1.1.141.248
+1.1.141.234
+1.1.141.181
+1.1.141.40
+1.1.141.154
+1.1.141.207
+1.1.141.219
+1.1.141.134
+1.1.141.235
+1.1.141.97
+1.1.141.227
+1.1.141.167
+1.1.141.225
+1.1.141.4
+1.1.141.170
+1.1.141.249
+1.1.141.70
+1.1.141.175
+1.1.141.168
+1.1.141.185
+1.1.141.241
+1.1.141.104
+1.1.141.230
+1.1.141.164
+1.1.141.74
+1.1.141.15
+1.1.141.208
+1.1.141.204
+1.1.141.239
+1.1.141.139
+1.1.141.200
+1.1.141.158
+1.1.141.182
+1.1.141.223
+1.1.141.89
+1.1.141.33
+1.1.141.35
+1.1.141.58
+1.1.141.32
+1.1.141.30
+1.1.141.73
+1.1.141.80
+1.1.141.163
+1.1.141.22
+1.1.141.226
+1.1.141.252
+1.1.141.48
+1.1.141.71
+180.180.241.2
+1.1.141.162
+101.51.121.3
+1.20.95.95
+182.52.58.44
+182.53.96.56 
+203.114.108.46
+1.1.141.179
+1.0.133.100
+1.10.234.91 
+113.53.29.228 
+101.51.138.9 
+1.20.217.149
+182.52.51.181 
+1.4.214.148 
+101.109.247.147
+125.25.82.191
+118.174.140.35
+101.109.86.110
+113.53.106.208 
+1.2.247.175 
+101.108.9.74
+180.180.170.188
+118.173.242.189 
+
+Domains:
+node-2m4.pool-1-1.dynamic.totinternet.net
+node-2nj.pool-1-1.dynamic.totinternet.net
+node-2mw.pool-1-1.dynamic.totinternet.net
+node-2m3.pool-1-1.dynamic.totinternet.net
+node-2pu.pool-1-1.dynamic.totinternet.net
+node-2lw.pool-1-1.dynamic.totinternet.net
+node-2l8.pool-1-1.dynamic.totinternet.net
+node-2pe.pool-1-1.dynamic.totinternet.net
+node-2ms.pool-1-1.dynamic.totinternet.net
+node-2n1.pool-1-1.dynamic.totinternet.net
+node-2pw.pool-1-1.dynamic.totinternet.net
+node-2nh.pool-1-1.dynamic.totinternet.net
+node-2o9.pool-1-1.dynamic.totinternet.net
+node-2mk.pool-1-1.dynamic.totinternet.net
+node-2nv.pool-1-1.dynamic.totinternet.net
+node-2qd.pool-1-1.dynamic.totinternet.net
+node-2pd.pool-1-1.dynamic.totinternet.net
+node-2kx.pool-1-1.dynamic.totinternet.net
+node-2l0.pool-1-1.dynamic.totinternet.net
+node-2px.pool-1-1.dynamic.totinternet.net
+node-2rc.pool-1-1.dynamic.totinternet.net
+node-2qy.pool-1-1.dynamic.totinternet.net
+node-2ph.pool-1-1.dynamic.totinternet.net
+node-2lk.pool-1-1.dynamic.totinternet.net
+node-2oq.pool-1-1.dynamic.totinternet.net
+node-2q7.pool-1-1.dynamic.totinternet.net
+node-2qj.pool-1-1.dynamic.totinternet.net
+node-2o6.pool-1-1.dynamic.totinternet.net
+node-2qz.pool-1-1.dynamic.totinternet.net
+node-2n5.pool-1-1.dynamic.totinternet.net
+node-2qr.pool-1-1.dynamic.totinternet.net
+node-2p3.pool-1-1.dynamic.totinternet.net
+node-2qp.pool-1-1.dynamic.totinternet.net
+node-2kk.pool-1-1.dynamic.totinternet.net
+node-2p6.pool-1-1.dynamic.totinternet.net
+node-2rd.pool-1-1.dynamic.totinternet.net
+node-2me.pool-1-1.dynamic.totinternet.net
+node-2pb.pool-1-1.dynamic.totinternet.net
+node-2p4.pool-1-1.dynamic.totinternet.net
+node-2pl.pool-1-1.dynamic.totinternet.net
+node-2r5.pool-1-1.dynamic.totinternet.net
+node-2nc.pool-1-1.dynamic.totinternet.net
+node-2qu.pool-1-1.dynamic.totinternet.net
+node-2p0.pool-1-1.dynamic.totinternet.net
+node-2mi.pool-1-1.dynamic.totinternet.net
+node-2kv.pool-1-1.dynamic.totinternet.net
+node-2q8.pool-1-1.dynamic.totinternet.net
+node-2q4.pool-1-1.dynamic.totinternet.net
+node-2r3.pool-1-1.dynamic.totinternet.net
+node-2ob.pool-1-1.dynamic.totinternet.net
+node-2q0.pool-1-1.dynamic.totinternet.net
+node-2ou.pool-1-1.dynamic.totinternet.net
+node-2pi.pool-1-1.dynamic.totinternet.net
+node-2qn.pool-1-1.dynamic.totinternet.net
+node-2mx.pool-1-1.dynamic.totinternet.net
+node-2ld.pool-1-1.dynamic.totinternet.net
+node-2lf.pool-1-1.dynamic.totinternet.net
+node-2m2.pool-1-1.dynamic.totinternet.net
+node-2lc.pool-1-1.dynamic.totinternet.net
+node-2la.pool-1-1.dynamic.totinternet.net
+node-2mh.pool-1-1.dynamic.totinternet.net
+node-2mo.pool-1-1.dynamic.totinternet.net
+node-2oz.pool-1-1.dynamic.totinternet.net
+node-2l2.pool-1-1.dynamic.totinternet.net
+node-2qq.pool-1-1.dynamic.totinternet.net
+node-2rg.pool-1-1.dynamic.totinternet.net
+node-2ls.pool-1-1.dynamic.totinternet.net
+node-2mf.pool-1-1.dynamic.totinternet.net
+node-2oy.pool-1-1.dynamic.totinternet.net
+node-nwj.pool-101-51.dynamic.totinternet.net
+node-bho.pool-182-52.dynamic.totinternet.net
+node-j08.pool-182-53.dynamic.totinternet.net
+203-114-108-46.totisp.net
+node-2pf.pool-1-1.dynamic.totinternet.net
+node-12c.pool-1-0.dynamic.totinternet.net
+node-l0b.pool-1-10.dynamic.totinternet.net
+node-5wk.pool-113-53.dynamic.totinternet.net
+node-r9l.pool-101-51.dynamic.totinternet.net
+node-a7p.pool-182-52.dynamic.totinternet.net
+node-h3o.pool-1-4.dynamic.totinternet.net
+node-1cwj.pool-101-109.dynamic.totinternet.net
+node-gcf.pool-125-25.dynamic.totinternet.net
+node-z.ll-118-174.static.totisp.net
+node-h2m.pool-101-109.dynamic.totinternet.net
+node-nn3.pool-1-2.dynamic.totinternet.net
+node-1u2.pool-101-108.dynamic.totinternet.net
+node-xq4.pool-180-180.dynamic.totinternet.net
+node-1by5.pool-118-173.dynamic.totinternet.net
+
+========================================================================
+TRUE INTERNET Co.,Ltd.
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+Bang Na, Bangkok
+Chon Buri, Thailand
+Samut Sakhon, Samut Sakhon
+
+IPv4:
+203.144.207.49
+171.100.8.82
+210.86.170.74 
+61.91.79.40 
+171.103.33.126 
+110.169.145.6 
+58.97.34.165 
+210.86.170.186 
+171.100.29.202 
+171.99.131.78 
+58.97.72.83 
+
+Domains:
+dns2.asianet.co.th
+171-100-8-82.static.asianet.co.th
+ppp-210-86-170-74.revip.asianet.co.th
+61-91-79-40.static.asianet.co.th
+171-103-33-126.static.asianet.co.th
+ppp-110-169-145-6.revip5.asianet.co.th
+58-97-34-165.static.asianet.co.th
+ppp-210-86-170-186.revip.asianet.co.th
+171-100-29-202.static.asianet.co.th
+171-99-131-78.static.asianet.co.th
+58-97-72-83.static.asianet.co.th
+
+========================================================================
+The Communication Authoity of Thailand, CAT 
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+Lat Lum Kaeo, Pathum Thani
+Phaya Thai, Bangkok
+Chatuchak, Bangkok
+Nakhon Si Thammarat, Nakhon Si Thammarat
+Panare, Pattani
+
+IPv4:
+61.19.42.5
+122.154.230.146
+110.78.22.39 
+202.129.52.174
+110.77.149.20 
+61.19.124.38
+202.129.52.170 
+61.19.202.124 
+122.154.158.219 
+122.154.33.188 
+
+========================================================================
+Triple T Broadband Public Company Limited
+========================================================================
+
+Locations:
+Ban Hong, Lamphun
+
+IPv4:
+110.164.156.114 
+
+Domains:
+mx-ll-110.164.156-114.3bb.co.th
+
+========================================================================
+UNINET-TH
+========================================================================
+
+Locations:
+Udon Thani, Udon Thani
+
+IPv4:
+202.29.5.151
+
+========================================================================
+UIH
+========================================================================
+
+Locations:
+Kamphaeng Phet, Kamphaeng Phet
+Phuket, Phuket 
+
+IPv4:
+117.121.215.102
+117.121.215.101
+117.121.211.170 
+
+========================================================================
+World Internetwork Co.,Ltd , Thailand (Internet Service Provider)
+========================================================================
+
+Locations:
+Bangkok, Krung Thep Maha Nakhon
+
+IPv4:
+202.44.52.1
+202.44.55.66
+
+Domains:
+www.worldinternetworkcorporation.com
+
+========================================================================
+Walailuk University
+========================================================================
+
+Locations:
+Surat Thani, Surat Thani
+
+IPv4:
+202.28.71.12

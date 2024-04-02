@@ -1,0 +1,260 @@
+ISP and Public DNS Servers Based in Taiwan
+========================================================================
+                                Country: Taiwan
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/tw
+public-dns.info: https://public-dns.info/nameserver/tw.html
+
+========================================================================
+Asia Pacific On-line Service Inc.
+========================================================================
+
+Locations:
+Taipei, Taipei
+
+IPv4:
+210.201.110.80
+210.201.118.233
+
+Domains:
+hc210-201-110-80.static.apol.com.tw
+tc210-201-118-233.adsl.static.apol.com.tw
+
+========================================================================
+Asia Pacific Broadband Fixed Lines Co., Ltd.
+========================================================================
+
+Locations:
+Hsinchu City, Taiwan
+
+IPv4:
+60.244.115.166 
+
+Domains:
+palace-group.com.tw
+
+========================================================================
+Acer CyberCenter Services, Inc.
+========================================================================
+
+Locations:
+Taoyuan, Taoyuan
+
+IPv4:
+211.79.206.212
+
+Domains:
+n212.n211-79-206.accsi.net
+
+========================================================================
+Data Communication Business Group
+========================================================================
+
+Locations:
+Taipei, Taipei
+Nantou, Nantou
+
+IPv4:
+168.95.1.1
+168.95.192.1
+114.34.162.81
+210.242.68.59
+125.227.62.229
+210.61.2.99
+59.124.195.5
+59.124.72.210
+59.124.71.99
+202.39.212.241
+210.242.86.26
+60.248.162.118
+220.135.49.41
+59.126.184.117
+61.222.14.170
+59.124.142.124
+60.250.225.142
+220.128.232.252
+61.219.108.121
+118.163.92.56
+220.130.144.200
+220.130.135.182
+59.124.58.34
+211.72.75.49
+118.163.117.107
+60.248.34.85
+60.248.94.66
+211.72.109.235
+59.120.147.177
+59.125.7.96
+60.250.36.194
+114.34.172.124
+210.59.209.19
+220.130.134.177
+61.216.185.88
+59.127.142.50
+59.125.90.50
+220.130.134.175
+59.125.86.230
+60.250.225.143 
+60.250.225.144
+59.120.192.166
+211.75.48.98
+220.132.105.10
+125.227.38.20
+60.251.117.118
+60.248.107.138
+211.72.210.250
+
+IPv6:
+2001:b000:168::1
+
+Domains:
+dns.hinet.net
+hntp1.hinet.net
+briangateway.ddns.net
+210-242-68-59.hinet-ip.hinet.net
+125-227-62-229.hinet-ip.hinet.net
+210-61-2-99.hinet-ip.hinet.net
+twspam01.chialin.com.tw
+59-124-72-210.hinet-ip.hinet.net
+59-124-71-99.hinet-ip.hinet.net
+doc.dasyong.com.tw
+210-242-86-26.hinet-ip.hinet.net
+email.dfcopy.com.tw
+220-135-49-41.hinet-ip.hinet.net
+59-126-184-117.hinet-ip.hinet.net
+mail.lianan.com.tw
+mail.danotech.com.tw
+60-250-225-142.hinet-ip.hinet.net
+220-128-232-252.hinet-ip.hinet.net
+61-219-108-121.hinet-ip.hinet.net
+npomx.naipo.com.tw
+dns3.kingstate.com.tw
+220-130-135-182.hinet-ip.hinet.net
+dns2.kingstate.com.tw
+211-72-75-49.hinet-ip.hinet.net
+118-163-117-107.hinet-ip.hinet.net
+60-248-34-85.hinet-ip.hinet.net
+60-248-94-66.hinet-ip.hinet.net
+mail.sylc.com.tw
+dns.hinet.net.
+59-120-147-177.hinet-ip.hinet.net
+59-125-7-96.hinet-ip.hinet.net
+dns.compuware.com.tw
+114-34-172-124.hinet-ip.hinet.net
+210-59-209-19.hinet-ip.hinet.net
+ms.captaintek.com.tw
+61-216-185-88.hinet-ip.hinet.net
+59-127-142-50.hinet-ip.hinet.net
+59-125-90-50.hinet-ip.hinet.net
+ms.captaintek.com.tw
+apexdyna.com
+60-250-225-143.hinet-ip.hinet.net
+60-250-225-144.hinet-ip.hinet.net
+59-120-192-166.hinet-ip.hinet.net
+dns.case.com.tw
+220-132-105-10.hinet-ip.hinet.net
+125-227-38-20.hinet-ip.hinet.net
+60-251-117-118.hinet-ip.hinet.net
+60-248-107-138.hinet-ip.hinet.net
+pc250.twnic.net.tw
+
+========================================================================
+Digital United Inc.
+========================================================================
+
+Locations:
+Taipei, Taipei
+
+IPv4:
+210.243.188.127
+210.66.73.137
+210.64.253.20
+
+Domains:
+h127-210-243-188.seed.net.tw
+mail.ponex.com.tw
+smtp.shini.com
+
+========================================================================
+GCNet Reach & Range Inc.
+========================================================================
+
+Locations:
+Taipei, Taipei
+
+IPv4:
+124.6.1.46
+
+========================================================================
+New Century InfoComm Tech Co., Ltd.
+========================================================================
+
+Locations:
+Taipei, Taipei
+
+IPv4:
+113.196.55.130
+218.32.90.252
+
+Domains:
+113.196.55.130.ll.static.sparqnet.net
+fecdns.firich.com.tw
+
+========================================================================
+National Cheng Kung University
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+210.71.26.1 
+
+========================================================================
+Taiwan Network Information Center
+========================================================================
+
+Locations:
+Taipei, Taipei
+
+IPv4:
+101.101.101.101
+101.102.103.104
+
+IPv6:
+2001:de4::102
+2001:de4::101 
+
+Domains:
+twnic-public-dns.twnic.tw
+twnic-public-dns.twnic.tw.
+
+========================================================================
+Taiwan Fixed Network, Telco and Network Service Provider.
+========================================================================
+
+Locations:
+Taipei, Taipei
+
+IPv4:
+219.87.84.69
+210.243.121.155
+
+Domains:
+219-87-84-69.static.tfn.net.tw
+
+========================================================================
+Taiwan Academic Network (TANet) Information Center
+========================================================================
+
+Locations:
+Taipei, Taipei
+
+IPv4:
+203.71.0.1
+163.22.17.89 
+
+Domains:
+www.ncnusa.ncnu.edu.tw

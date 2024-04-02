@@ -1,0 +1,44 @@
+ISP and Public DNS Servers Based in Sri Lanka
+========================================================================
+                                Country: Sri Lanka
+========================================================================
+
+Sources:
+dnschecker.org (Sri Lanka): https://dnschecker.org/public-dns/lk
+public-dns.info: https://public-dns.info/nameserver/lk.html
+
+========================================================================
+Hutchison Telecommunications Lanka (Private) Limited
+========================================================================
+
+Locations:
+Colombo, Western Province
+
+IPv4:
+203.189.191.164
+
+========================================================================
+Lanka Communication Services
+========================================================================
+
+Locations:
+Colombo, Western Province
+
+IPv4:
+203.143.0.25
+203.143.42.24 
+116.12.89.217 
+
+Domains:
+lanka-com1.lankacom.net
+hilton.lankacom.lk
+
+========================================================================
+Sri Lanka Telecom Internet
+========================================================================
+
+Locations:
+Colombo, Western Province
+
+IPv4:
+203.115.18.196

@@ -1,0 +1,127 @@
+ISP and Public DNS Servers Based in Malaysia
+========================================================================
+                                Country: Malaysia
+========================================================================
+
+Sources:
+dnschecker.org (Malaysia): https://dnschecker.org/public-dns/my
+public-dns.info: https://public-dns.info/nameserver/my.html
+
+========================================================================
+Binariang Berhad
+========================================================================
+
+Locations:
+Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+
+IPv4:
+121.121.2.153
+
+Domains:
+shinko.com.my
+asa.shinko.com.my
+
+========================================================================
+Block B053 Garden City Business Centre
+========================================================================
+
+Locations:
+Shah Alam, Selangor
+
+IPv4:
+103.3.75.98 
+
+========================================================================
+Clear-Comm Sdn Bhd
+========================================================================
+
+Locations:
+Petaling Jaya, Selangor
+
+IPv4:
+203.176.144.12
+
+Domains:
+smtp.clearcomm.com.my
+
+========================================================================
+Malaysian Research & Education Network
+========================================================================
+
+Locations:
+Batu Caves, Selangor
+
+IPv4:
+122.129.122.100 
+
+========================================================================
+Mykris Asia, Managed Network and Service Provider
+========================================================================
+
+Locations:
+Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur 
+
+IPv4:
+202.133.101.116
+
+Domains:
+mail.nanyang.com.my
+
+========================================================================
+LNS8-MY
+========================================================================
+
+Locations:
+Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+
+IPv4:
+103.3.75.98
+
+========================================================================
+TM Net, Internet Service Provider
+========================================================================
+
+Locations:
+Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+Shah Alam, Selangor
+Kepala Batas, Penang
+
+IPv4:
+124.82.213.221
+219.95.252.173
+175.139.150.29
+1.32.58.251
+60.50.142.156
+175.143.16.82
+175.139.179.65
+1.32.58.250 
+1.32.122.32 
+
+Domains:
+95.219.in-addr.arpa.static.tm.net.my
+156.142.50.60.jb02-home.tm.net.my
+
+========================================================================
+TM-VADS DC Hosting
+========================================================================
+
+Locations:
+Cyberjaya, Selangor
+
+IPv4:
+49.236.193.35
+
+========================================================================
+TIME dotCom Berhad No. 14, Jalan Majistret U126 Hicom Glenmarie Industrial Park 40150 Shah Al
+========================================================================
+
+Locations:
+Sungai Petani, Kedah
+Petaling Jaya, Selangor
+
+IPv4:
+211.24.95.49 
+211.25.11.15
+
+Domains:
+cgw-211-24-95-49.bbrtl.time.net.my

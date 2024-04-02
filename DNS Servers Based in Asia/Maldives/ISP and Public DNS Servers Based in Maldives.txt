@@ -1,0 +1,25 @@
+ISP and Public DNS Servers Based in Maldives
+========================================================================
+                                Country: Maldives
+========================================================================
+
+Sources:
+public-dns.info: https://public-dns.info/nameserver/mv.html
+
+========================================================================
+DHIVEHI RAAJJEYGE GULHUN PLC
+========================================================================
+
+Locations:
+Malé, Maldives 
+Eydhafushi, Maldives 
+
+IPv4:
+203.104.31.24 
+124.195.199.146 
+203.104.26.102 
+83.137.206.77
+202.1.195.124 
+
+Domains:
+dedicated124.dhivehinet.net.mv

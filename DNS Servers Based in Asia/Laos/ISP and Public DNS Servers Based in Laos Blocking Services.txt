@@ -1,0 +1,19 @@
+# ISP and Public DNS Servers Based in Laos
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                               # Country: Laos
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/la
+# public-dns.info: https://public-dns.info/nameserver/la.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+101.78.12.50
+103.240.242.179
+202.137.128.6
+183.182.102.135 
+103.137.91.250

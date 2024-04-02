@@ -1,0 +1,62 @@
+ISP and Public DNS Servers Based in Tajikistan 
+========================================================================
+                                Country: Tajikistan
+========================================================================
+
+Sources:
+dnschecker.org (Tajikistan): https://dnschecker.org/public-dns/tj
+public-dns.info: https://public-dns.info/nameserver/tj.html
+
+========================================================================
+CJSC Telecomm Technology
+========================================================================
+
+Locations:
+Orzu, Khatlon
+
+IPv4:
+95.142.83.43
+
+========================================================================
+CJSC INDIGO TAJIKISTAN
+========================================================================
+
+Locations:
+Khujand, Sughd
+Dushanbe, Dushanbe
+
+IPv4:
+217.8.34.70
+185.42.96.217
+
+Domains:
+70.34.8.217.north.tcell.tj
+
+========================================================================
+LLC Babilon-T
+========================================================================
+
+Locations:
+Dushanbe, Dushanbe
+Konibodom, Tajikistan
+Tursunzoda, Tajikistan
+
+IPv4:
+217.11.176.244
+217.11.180.168
+109.74.78.204
+
+========================================================================
+Tacom LLC
+========================================================================
+
+Locations:
+Dushanbe, Dushanbe
+
+IPv4:
+85.9.129.36 
+85.9.129.38 
+
+Domains:
+dns1.beeline.tj
+ns.tacom.tj
