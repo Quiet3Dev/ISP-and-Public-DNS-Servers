@@ -1,0 +1,15 @@
+# ISP and Public DNS Servers Based in Seychelles
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                               # Country: Seychelles
+========================================================================
+
+# Sources:
+# public-dns.info: https://public-dns.info/nameserver/sc.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+41.86.33.132
+

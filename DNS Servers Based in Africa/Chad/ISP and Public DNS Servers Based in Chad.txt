@@ -1,0 +1,28 @@
+ISP and Public DNS Servers Based in Chad
+========================================================================
+                                Country: Chad
+========================================================================
+
+Sources:
+dnschecker.org (Chad): https://dnschecker.org/public-dns/td
+public-dns.info: https://public-dns.info/nameserver/td.html
+
+========================================================================
+MILLICOM CHAD SA
+========================================================================
+
+Location:
+Sagoa, Ville de Ndjamena
+
+IPv4:
+154.73.165.109
+
+========================================================================
+SUDATCHAD SA/CA
+========================================================================
+
+Location:
+N'Djamena, Ville de Ndjamena
+
+IPv4:
+41.242.153.26

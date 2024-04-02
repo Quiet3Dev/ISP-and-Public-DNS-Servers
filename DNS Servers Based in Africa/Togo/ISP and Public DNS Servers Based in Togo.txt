@@ -1,0 +1,28 @@
+ISP and Public DNS Servers Based in Togo
+========================================================================
+                                Country: Togo
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/tg
+public-dns.info: https://public-dns.info/nameserver/tg.html
+
+========================================================================
+CAFE Informatique et telecommunications
+========================================================================
+
+Location:
+Badou, Togo
+
+IPv4:
+80.248.72.1
+
+========================================================================
+TogoTelecom, Togo
+========================================================================
+
+Location:
+Unknown
+
+IPv4:
+41.207.186.166

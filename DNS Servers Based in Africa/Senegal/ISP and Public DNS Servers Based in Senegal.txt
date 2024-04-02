@@ -1,0 +1,20 @@
+ISP and Public DNS Servers Based in Senegal
+========================================================================
+                                Country: Senegal
+========================================================================
+
+Sources:
+public-dns.info: https://public-dns.info/nameserver/sn.html
+
+========================================================================
+Autonomous System
+========================================================================
+
+Location:
+Unknown
+
+IPv4:
+213.154.80.203 
+
+Domains:
+art-server-001.art-telecom.sn

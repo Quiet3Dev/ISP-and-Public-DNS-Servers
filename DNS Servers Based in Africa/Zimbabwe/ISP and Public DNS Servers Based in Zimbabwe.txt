@@ -1,0 +1,48 @@
+ISP and Public DNS Servers Based in Zimbabwe
+========================================================================
+                                Country: Zimbabwe
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/zw
+public-dns.info: https://public-dns.info/nameserver/zw.html
+
+========================================================================
+Liquid Telecommunications Ltd
+========================================================================
+
+Location:
+Harare, Zimbabwe
+
+IPv4:
+197.155.230.206 
+
+Domains:
+cust-ce.liquidtelecom.net
+
+========================================================================
+Zimbabwe Online (Private) Ltd.
+========================================================================
+
+Location:
+Unknown
+
+IPv4:
+196.27.105.130
+
+Domains:
+718407.customer.zol.co.zw
+
+========================================================================
+ZIMBABWE OPEN UNIVERSITY
+========================================================================
+
+Location:
+Harare, Harare
+
+IPv4:
+196.43.199.61
+196.43.199.60
+
+Domains:
+z0udns1.zou.ac.zw

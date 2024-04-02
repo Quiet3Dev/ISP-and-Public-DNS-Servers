@@ -1,0 +1,19 @@
+# ISP and Public DNS Servers Based in Botswana
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                               # Country: Botswana
+========================================================================
+
+# Sources:
+# dnschecker.org (Botswana): https://dnschecker.org/public-dns/bw
+# public-dns.info: https://public-dns.info/nameserver/bw.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+154.70.151.66
+154.70.148.70 
+154.70.151.73 	
+154.70.147.1 
+129.205.210.90 	

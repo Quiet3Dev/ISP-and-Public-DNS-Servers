@@ -1,0 +1,22 @@
+ISP and Public DNS Servers Based in Mali
+========================================================================
+                                Country: Mali
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ml
+
+========================================================================
+Orange Mali SA
+========================================================================
+
+Location:
+Koulikoro, Koulikoro
+Bamako, Bamako
+
+IPv4:
+41.73.96.51
+41.221.186.250
+
+Domains:
+ns7.orangemali.net

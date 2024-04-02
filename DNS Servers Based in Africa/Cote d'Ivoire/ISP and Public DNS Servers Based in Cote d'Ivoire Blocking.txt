@@ -1,0 +1,15 @@
+# ISP and Public DNS Servers Based in Cote d'Ivoire
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                                # Country: Cote d'Ivoire
+========================================================================
+
+# Sources:
+# dnschecker.org (Cote d'Ivoire): https://dnschecker.org/public-dns/ci
+
+========================================================================
+# IPv4:
+========================================================================
+
+213.136.116.66
+213.136.116.67

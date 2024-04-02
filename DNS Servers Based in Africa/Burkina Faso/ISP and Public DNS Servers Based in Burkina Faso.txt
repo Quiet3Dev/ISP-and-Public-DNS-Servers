@@ -1,0 +1,18 @@
+ISP and Public DNS Servers Based in Burkina Faso
+========================================================================
+                                Country: Burkina Faso
+========================================================================
+
+Sources:
+dnschecker.org (Burkina Faso): https://dnschecker.org/public-dns/bf
+public-dns.info: https://public-dns.info/nameserver/bf.html
+
+========================================================================
+ONATEL (Office National des Telecommunications, PTT)
+========================================================================
+
+Location:
+Ouagadougou, Kadiogo
+
+IPv4:
+196.28.245.26

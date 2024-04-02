@@ -1,0 +1,29 @@
+ISP and Public DNS Servers Based in Mauritania
+========================================================================
+                                Country: Mauritania
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/mr
+public-dns.info: https://public-dns.info/nameserver/mr.html
+
+========================================================================
+Mauritanian Telecommunication Company
+========================================================================
+
+Location:
+Nouakchott, Nouakchott Ouest
+Arafat, Nouakchott
+
+IPv4:
+82.151.69.146
+82.151.90.1
+82.151.74.36
+82.151.73.122
+82.151.73.168	
+82.151.66.178
+
+Domains:
+mail.bcm.mr
+bow.mauritel.mr
+cdisrv.cdi.mr

@@ -1,0 +1,32 @@
+ISP and Public DNS Servers Based in Benin
+========================================================================
+                                Country: Benin
+========================================================================
+
+Sources:
+dnschecker.org (Benin): https://dnschecker.org/public-dns/bj
+public-dns.info: https://public-dns.info/nameserver/bj.html
+
+========================================================================
+BENIN TELECOMS INFRASTRUCTURES SA
+========================================================================
+
+Location:
+Abomey-Calavi, Atlantique
+
+IPv4:
+196.192.16.5
+
+Domains:
+logozo.uac.bj
+
+========================================================================
+Office des Postes et telecommunications du Benin
+========================================================================
+
+Location:
+Savalou, Bénin
+
+IPv4:
+41.85.191.6
+41.85.191.14

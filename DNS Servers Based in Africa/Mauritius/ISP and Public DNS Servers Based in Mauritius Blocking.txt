@@ -1,0 +1,19 @@
+# ISP and Public DNS Servers Based in Mauritius
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                                # Country: Mauritius
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/mu
+# public-dns.info: https://public-dns.info/nameserver/mu.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+196.12.158.238
+102.116.108.83
+41.174.131.222 	
+41.174.184.222 
+

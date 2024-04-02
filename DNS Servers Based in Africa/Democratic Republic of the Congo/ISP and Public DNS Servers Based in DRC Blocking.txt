@@ -1,0 +1,14 @@
+# ISP and Public DNS Servers Based in Democratic Republic of the Congo
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                       # Country: Democratic Republic of the Congo
+========================================================================
+
+# Sources:
+# public-dns.info: https://public-dns.info/nameserver/
+
+========================================================================
+# IPv4:
+========================================================================
+
+102.223.208.3

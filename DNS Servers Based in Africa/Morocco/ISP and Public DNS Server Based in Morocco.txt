@@ -1,0 +1,55 @@
+ISP and Public DNS Servers Based in Morocco
+========================================================================
+                                Country: Morocco
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ma
+public-dns.info: https://public-dns.info/nameserver/ma.html
+
+========================================================================
+CNRST (Centre National pour la Recherche Scientifique et Technique)
+========================================================================
+
+Location:
+Marrakesh, Marrakech-Safi
+Oulad Tayeb, Tanger-Tetouan-Al Hoceima
+Beni Mellal, Beni-Mellal-Khenifra
+
+IPv4:
+196.200.176.2
+196.200.146.104
+196.200.184.31
+
+Domains:
+nsa.uca.ma
+
+========================================================================
+Itissalat Al-MAGHRIB
+========================================================================
+
+Location:
+Unknown
+
+IPv4:
+212.217.21.250
+81.192.64.22 
+
+========================================================================
+Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM
+========================================================================
+
+Location:
+Rabat, Rabat-Sale-Kenitra
+
+IPv4:
+81.192.64.22
+81.192.17.61
+212.217.1.12
+81.192.21.81
+
+Domains:
+mail.the-makers.ma
+adsl-61-17-192-81.adsl.iam.net.ma
+dns4.iam.net.ma
+adsl-81-21-192-81.adsl.iam.net.ma

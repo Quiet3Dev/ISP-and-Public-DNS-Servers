@@ -1,0 +1,22 @@
+ISP and Public DNS Servers Based in Ethiopia
+========================================================================
+                                Country: Ethiopia
+========================================================================
+
+Sources:
+dnschecker.org (Ethiopia): https://dnschecker.org/public-dns/et
+public-dns.info: https://public-dns.info/nameserver/et.html
+
+========================================================================
+Ethiopian Telecommunication Corporation
+========================================================================
+
+Location:
+Addis Ababa, Adis Abeba
+
+IPv4:
+213.55.96.166
+213.55.96.148
+
+Domains:
+mail.moe.gov.et

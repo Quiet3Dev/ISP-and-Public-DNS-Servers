@@ -1,0 +1,18 @@
+ISP and Public DNS Servers Based in Sao Tome and Principe
+========================================================================
+                            Country: Sao Tome and Principe
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/st
+public-dns.info: https://public-dns.info/nameserver/st.html
+
+========================================================================
+Companhia Santomense de Telecomunicacoes
+========================================================================
+
+Location:
+Sao Tome, Agua Grande
+
+IPv4:
+197.159.166.81

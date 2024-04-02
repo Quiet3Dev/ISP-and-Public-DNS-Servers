@@ -1,0 +1,37 @@
+# ISP and Public DNS Servers Based in Uganda
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                               # Country: Uganda
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/ug
+# public-dns.info: https://public-dns.info/nameserver/ug.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+216.104.206.136
+41.222.4.34
+154.72.202.86
+154.72.212.38
+154.72.199.202
+154.72.197.138
+196.43.185.129
+196.43.185.88
+196.43.185.99
+81.199.16.1 
+
+========================================================================
+# Domains:
+========================================================================
+
+afol-ipg-2-136.africaonline.co.ug
+h56.gou.go.ug
+hca.gou.go.ug
+renu-129.renu.ac.ug
+renu-088.renu.ac.ug
+renu-099.renu.ac.ug
+static-41-222-4-34.metronet.imul.com
+mail.udc.go.ug

@@ -1,0 +1,38 @@
+ISP and Public DNS Servers Based in Libya
+========================================================================
+                                Country: Libya
+========================================================================
+
+Sources:
+dnschecker.org (Libya): https://dnschecker.org/public-dns/ly
+public-dns.info: https://public-dns.info/nameserver/ly.html
+
+========================================================================
+Aljeel Aljadeed For Technology
+========================================================================
+
+Location:
+Tripoli, Tarabulus
+Az Zintan, Al Jabal al Gharbi
+
+IPv4:
+165.16.68.1
+165.16.60.228
+165.16.43.71 
+154.127.79.10 	
+165.16.22.130 	
+165.16.58.124 	
+165.16.0.105
+165.16.5.77 
+165.16.22.166 	
+165.16.109.17
+
+========================================================================
+General Post and Telecommunication Company
+========================================================================
+
+Location:
+Tripoli, Tarabulus 
+
+IPv4:
+41.254.52.188 	

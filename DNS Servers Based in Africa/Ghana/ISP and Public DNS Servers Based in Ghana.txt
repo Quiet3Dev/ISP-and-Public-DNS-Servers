@@ -1,0 +1,31 @@
+ISP and Public DNS Servers Based in Ghana
+========================================================================
+                                Country: Ghana
+========================================================================
+
+Sources:
+dnschecker.org (Ghana): https://dnschecker.org/public-dns/gh
+public-dns.info: https://public-dns.info/nameserver/gh.html
+
+========================================================================
+Ghana Telecommunications Company Limited
+========================================================================
+
+Location:
+Accra, Greater Accra
+
+IPv4:
+212.96.1.70
+
+Domains:
+dnspro.gstelecom.net
+
+========================================================================
+IS-GHANA
+========================================================================
+
+Location:
+Accra, Greater Accra
+
+IPv4:
+197.221.89.70 

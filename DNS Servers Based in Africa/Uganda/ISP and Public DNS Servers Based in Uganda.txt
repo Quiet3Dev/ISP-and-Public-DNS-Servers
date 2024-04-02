@@ -1,0 +1,81 @@
+ISP and Public DNS Servers Based in Uganda
+========================================================================
+                                Country: Uganda
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ug
+public-dns.info: https://public-dns.info/nameserver/ug.html
+
+========================================================================
+Africa Online Uganda
+========================================================================
+
+Location:
+Dar es Salaam, Dar es Salaam
+
+IPv4:
+216.104.206.136
+
+Domains:
+afol-ipg-2-136.africaonline.co.ug
+
+========================================================================
+Gilat Telecom Ltd
+========================================================================
+
+Location:
+Kampala, Uganda
+
+IPv4:
+81.199.16.1 
+
+========================================================================
+Liquid Telecommunications Ltd
+========================================================================
+
+Location:
+Unknown
+
+Location:
+41.222.4.34
+
+Domains:
+static-41-222-4-34.metronet.imul.com
+
+========================================================================
+National Information Technology Authority Uganda
+========================================================================
+
+Location:
+Mbarara, Mbarara
+Mbale, Mbale
+Kampala, Uganda
+
+IPv4:
+154.72.202.86
+154.72.212.38
+154.72.199.202
+154.72.197.138
+
+Domains:
+h56.gou.go.ug
+hca.gou.go.ug
+mail.udc.go.ug
+
+========================================================================
+RENU
+========================================================================
+
+Location:
+Unknown
+
+IPv4:
+196.43.185.129
+196.43.185.88
+196.43.185.99
+
+Domains:
+renu-129.renu.ac.ug
+renu-088.renu.ac.ug
+renu-099.renu.ac.ug

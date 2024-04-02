@@ -1,0 +1,28 @@
+ISP and Public DNS Servers Based in Antarctica
+========================================================================
+                                Continent: Antarctica
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/aq
+
+========================================================================
+Kevin Holly trading as Silent Ghost e.U.
+========================================================================
+
+Locations:
+Auckland, Auckland
+London, England
+
+IPv4:
+185.121.177.177
+
+IPv6:
+2a05:dfc7:5::53
+2a05:dfc7:5353::53
+2a05:dfc7:5::5353
+
+Domains:
+anyone.anyqa.st
+anyone.dnsrec.meo.ws.
+anytwo.dnsrec.meo.ws.

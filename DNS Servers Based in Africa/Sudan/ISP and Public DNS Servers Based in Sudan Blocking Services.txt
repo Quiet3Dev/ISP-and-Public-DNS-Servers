@@ -1,0 +1,15 @@
+# ISP and Public DNS Servers Based in Sudan
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                               # Country: Sudan
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/sd
+# public-dns.info: https://public-dns.info/nameserver/sd.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+196.223.158.58
