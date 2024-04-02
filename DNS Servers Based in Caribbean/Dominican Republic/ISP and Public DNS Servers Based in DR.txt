@@ -1,0 +1,167 @@
+ISP and Public DNS Servers Based in Dominican Republic
+========================================================================
+                                Country: Dominican Republic
+========================================================================
+
+Sources:
+dnschecker.org (Dominican Republic): https://dnschecker.org/public-dns/do
+public-dns.info: https://public-dns.info/nameserver/do.html
+
+========================================================================
+ALTICE DOMINICANA S.A.
+========================================================================
+
+Location:
+San Rafael del Yuma, La Altagracia
+Moca, Espaillat
+Bonao, Monsenor Nouel
+
+IPv4:
+186.120.184.35
+186.149.243.52
+186.120.170.6
+181.36.121.150 
+181.36.121.169 
+
+Domains:
+adsl-184-35.tricom.net
+adsl-243-52.tricom.net
+mail.bionuclear.com.do
+adsl-20-150.tricom.net
+
+========================================================================
+Compañía Dominicana de Teléfonos S. A
+========================================================================
+
+Location:
+Punta Cana, San Juan
+
+IPv4:
+66.98.34.58
+
+Domains:
+58sdl.codetel.net.do
+
+========================================================================
+COMCAST-SRL
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+168.196.124.108 
+
+Domains:
+108-124-196-168-ftth.comcast-srl.com
+
+========================================================================
+ESQUIRE CORPORATE SERVICES, S.R.L.
+========================================================================
+
+Location:
+El Mamey
+
+IPv4:
+177.200.238.44
+
+Domains:
+fibra-a-la-casa-238-44.esquirecs.com
+
+========================================================================
+Gold Data C.A.
+========================================================================
+
+Location:
+Santo Domingo Este, Santo Domingo 
+
+IPv4:
+45.229.33.66 
+45.229.33.26 
+45.229.32.242
+45.229.33.34  
+45.229.33.42
+
+========================================================================
+JOSE DIGITAL MEDIA DOMINICANA SRL
+========================================================================
+
+Location:
+Santiago de los Caballeros, Santiago
+
+IPv4:
+190.93.189.30 
+
+Domains:
+fibra-a-la-casa-189-28.jdimax.com
+fibra-a-la-casa-189-30.jdimax.com
+
+========================================================================
+MR Networking, SRL
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+38.101.122.211 	
+
+========================================================================
+ORBITEK SRL
+========================================================================
+
+Locations:
+Santo Domingo Este, Santo Domingo
+
+IPv4:
+45.195.76.242 
+45.195.76.114 
+
+========================================================================
+RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L
+========================================================================
+
+Location:
+Santiago de los Caballeros, Santiago
+
+IPv4:
+170.80.200.193
+
+========================================================================
+Trilogy Dominicana, S.A.
+========================================================================
+
+Location:
+Santo Domingo Este, Santo Domingo
+
+IPv4:
+190.8.35.227 
+190.8.35.226
+
+========================================================================
+TELERY NETWORKS, S.R.L
+========================================================================
+
+Location:
+Puerto Plata, Puerto Plata
+
+IPv4:
+45.153.165.67 
+
+========================================================================
+WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L
+========================================================================
+
+Location:
+Castanuelas
+Santiago de los Caballeros, Santiago
+
+IPv4:
+200.125.168.132 
+200.125.168.134 
+200.125.171.220 
+
+Domains:
+INTERNET-DEDICADO-168-132.wmservice.com.do
+INTERNET-DEDICADO-168-134.wmservice.com.do
+INTERNET-DEDICADO-171-220.wmservice.com.do

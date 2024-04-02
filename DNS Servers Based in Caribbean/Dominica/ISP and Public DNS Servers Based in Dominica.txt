@@ -1,0 +1,17 @@
+ISP and Public DNS Servers Based in Dominica
+========================================================================
+                                Country: Dominica
+========================================================================
+
+Sources:
+dnschecker.org (Dominica): https://dnschecker.org/public-dns/dm
+
+========================================================================
+Digicel St.Lucia Ltd
+========================================================================
+
+Location:
+Saint Martins, Saint Philip
+
+IPv4:
+162.212.13.62

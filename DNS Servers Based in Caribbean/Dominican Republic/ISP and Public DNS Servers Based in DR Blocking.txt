@@ -1,0 +1,55 @@
+# ISP and Public DNS Servers Based in Dominican Republic
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Dominican Republic
+========================================================================
+
+# Sources:
+# dnschecker.org (Dominican Republic): https://dnschecker.org/public-dns/do
+# public-dns.info: https://public-dns.info/nameserver/do.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+186.120.184.35
+186.149.243.52
+186.120.170.6
+66.98.34.58
+177.200.238.44
+45.229.33.66 
+190.93.189.30 
+190.8.35.227 
+190.8.35.226
+45.153.165.67 
+200.125.168.132 
+200.125.168.134 
+200.125.171.220 
+181.36.121.150 
+45.229.33.26 
+45.229.32.242 
+45.229.33.34 
+45.229.33.42
+168.196.124.108 
+45.195.76.242 
+38.101.122.211 	
+181.36.121.169 
+45.195.76.114 
+
+========================================================================
+# Domains:
+========================================================================
+
+58sdl.codetel.net.do
+adsl-184-35.tricom.net
+adsl-243-52.tricom.net
+mail.bionuclear.com.do
+fibra-a-la-casa-189-28.jdimax.com
+fibra-a-la-casa-238-44.esquirecs.com
+adsl-20-150.tricom.net
+108-124-196-168-ftth.comcast-srl.com
+INTERNET-DEDICADO-168-132.wmservice.com.do
+fibra-a-la-casa-189-30.jdimax.com
+INTERNET-DEDICADO-168-134.wmservice.com.do
+INTERNET-DEDICADO-171-220.wmservice.com.do
+adsl-20-169.tricom.net

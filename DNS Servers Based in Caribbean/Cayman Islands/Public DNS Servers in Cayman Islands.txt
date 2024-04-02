@@ -1,0 +1,17 @@
+ISP and Public DNS Servers Based in Cayman Islands
+========================================================================
+                                Country: Cayman Islands
+========================================================================
+
+Sources:
+dnschecker.org (Cayman Islands): https://dnschecker.org/public-dns/ky
+
+========================================================================
+Infinity Broadband Ltd
+========================================================================
+
+Location:
+George Town, Cayman Islands
+
+IPv4:
+162.247.220.1

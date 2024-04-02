@@ -1,0 +1,14 @@
+# ISP and Public DNS Servers Based in Cayman Islands
+# Blocking Services for ISP and Public DNS Servers 
+========================================================================
+                               # Country: Cayman Islands
+========================================================================
+
+# Sources:
+# dnschecker.org (Cayman Islands): https://dnschecker.org/public-dns/ky
+
+========================================================================
+# IPv4:
+========================================================================
+
+162.247.220.1

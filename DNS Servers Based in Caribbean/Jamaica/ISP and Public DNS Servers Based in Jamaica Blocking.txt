@@ -1,0 +1,23 @@
+# ISP and Public DNS Servers Based in Jamaica
+# Blocking Services for ISP and Public DNS Servers 
+========================================================================
+                            # Country: Jamaica
+========================================================================
+
+# Sources:
+# dnschecker.org (Jamaica): https://dnschecker.org/public-dns/jm
+# public-dns.info: https://public-dns.info/nameserver/jm.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+66.249.150.50
+66.249.150.51 
+
+========================================================================
+# Domains:
+========================================================================
+
+dns1.digicelbarbados.net
+dns2.digicelbarbados.net

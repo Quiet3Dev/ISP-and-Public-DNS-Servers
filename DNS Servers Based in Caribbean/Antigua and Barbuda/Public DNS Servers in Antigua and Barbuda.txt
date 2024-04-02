@@ -1,0 +1,17 @@
+ISP and Public DNS Servers Based in Antigua and Barbuda
+========================================================================
+                                Country: Antigua and Barbuda
+========================================================================
+
+Sources:
+public-dns.info: https://public-dns.info/nameserver/ag.html
+
+========================================================================
+ACT2000
+========================================================================
+
+Location:
+St John's, Antigua and Barbuda
+
+IPv4:
+69.50.69.115

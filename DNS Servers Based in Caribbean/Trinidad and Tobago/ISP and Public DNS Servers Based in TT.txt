@@ -1,0 +1,23 @@
+ISP and Public DNS Servers Based in Trinidad and Tobago
+========================================================================
+                                Country: Trinidad and Tobago
+========================================================================
+
+Sources:
+dnschecker.org (Trinidad and Tobago): https://dnschecker.org/public-dns/tt
+public-dns.info: https://public-dns.info/nameserver/tt.html
+
+========================================================================
+Telecommunication Services of Trinidad and Tobago
+========================================================================
+
+Location:
+Port of Spain,Port of Spain
+
+IPv4:
+196.3.132.153
+196.3.132.154
+
+Domains:
+ns.tstt.net.tt
+nssec.tstt.net.tt

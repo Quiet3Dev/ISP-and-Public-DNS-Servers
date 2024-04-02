@@ -1,0 +1,25 @@
+ISP and Public DNS Servers Based in Saint Vincent and the Grenadines
+========================================================================
+                        Country: Saint Vincent and the Grenadines
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/vc
+public-dns.info: https://public-dns.info/nameserver/vc.html
+
+========================================================================
+Columbus Communication St. Vincent and the Grenadines Ltd.
+========================================================================
+
+Location:
+Kingstown, Saint George
+Lovell Village, Grenadines 
+
+IPv4:
+208.84.200.28
+65.48.229.96
+69.73.238.120
+65.48.140.192
+
+Domains:
+ns2.karibcable.com

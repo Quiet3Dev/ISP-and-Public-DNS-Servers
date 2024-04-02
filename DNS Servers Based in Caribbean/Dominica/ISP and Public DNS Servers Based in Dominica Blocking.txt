@@ -1,0 +1,14 @@
+# ISP and Public DNS Servers Based in Dominica
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                               # Country: Dominica
+========================================================================
+
+# Sources:
+# dnschecker.org (Dominica): https://dnschecker.org/public-dns/dm
+
+========================================================================
+# IPv4:
+========================================================================
+
+162.212.13.62
