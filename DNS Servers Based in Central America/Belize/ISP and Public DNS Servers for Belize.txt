@@ -1,0 +1,20 @@
+ISP and Public DNS Servers Based in Belize
+========================================================================
+                                Country: Belize
+========================================================================
+
+Sources:
+public-dns.info: https://public-dns.info/nameserver/bz.html
+
+========================================================================
+Belize Telemedia Limited
+========================================================================
+
+Locations:
+Corozal, Belize
+
+IPv4:
+190.197.54.82 
+
+Domains:
+digi-ip-82.btl.net

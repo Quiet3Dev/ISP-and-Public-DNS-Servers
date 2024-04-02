@@ -1,0 +1,20 @@
+ISP and Public DNS Servers Based in Nicaragua 
+========================================================================
+                                Country: Nicaragua
+========================================================================
+
+Sources:
+dnschecker.org (Nicaragua): https://dnschecker.org/public-dns/ni
+
+==================================================================================
+Amnet Telecomunicaciones S.A.
+==================================================================================
+
+Location:
+Managua, Managua
+
+IPv4:
+165.98.138.194
+
+Domains:
+host194-138-98-165.tigobusiness.com.ni
