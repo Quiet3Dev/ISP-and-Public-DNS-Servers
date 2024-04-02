@@ -1,0 +1,50 @@
+ISP and Public DNS Servers Based in Yemen
+========================================================================
+                                Country: Yemen
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ye
+public-dns.info: https://public-dns.info/nameserver/ye.html
+
+========================================================================
+Public Telecommunication Corporation
+========================================================================
+
+Locations:
+Al Mukalla, Hadramawt
+Aden, 'Adan
+Sanaa, Amanat al 'Asimah
+Al Mansurah, 'Adan
+Ibb, Ibb
+At Turbah, Ta'izz
+
+IPv4:
+109.200.171.140
+109.200.176.136
+109.74.32.250
+109.74.34.5
+109.74.40.122
+109.74.40.123
+109.74.40.131
+109.74.40.163
+109.74.41.123
+109.74.41.160
+109.74.42.91
+109.74.42.103
+109.74.43.158
+109.74.41.57 
+109.200.171.140 
+
+Domains:
+adsl-109-200-171-140.dynamic.yemennet.ye
+adsl-109-200-176-136.dynamic.yemennet.ye
+adsl-109-74-32-250.dynamic.yemennet.ye
+adsl-109-74-34-5.dynamic.yemennet.ye
+adsl-109-74-40-122.dynamic.yemennet.ye
+adsl-109-74-40-123.dynamic.yemennet.ye 	
+adsl-109-74-40-131.dynamic.yemennet.ye
+adsl-109-74-41-123.dynamic.yemennet.ye
+adsl-109-74-41-160.dynamic.yemennet.ye
+adsl-109-74-42-91.dynamic.yemennet.ye
+adsl-109-74-42-103.dynamic.yemennet.ye

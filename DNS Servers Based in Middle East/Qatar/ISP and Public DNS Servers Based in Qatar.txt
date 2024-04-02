@@ -1,0 +1,21 @@
+ISP and Public DNS Servers Based in Qatar
+========================================================================
+                                Country: Qatar
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/qa
+public-dns.info: https://public-dns.info/nameserver/qa.html
+
+========================================================================
+Ooredoo Q.S.C.
+========================================================================
+
+Location:
+Doha, Ad Dawhah
+
+IPv4:
+89.211.53.228
+
+Domains:
+edge01.qbcf.gov.qa

@@ -1,0 +1,67 @@
+ISP and Public DNS Servers Based in Saudi Arabia
+========================================================================
+                                Country: Saudi Arabia
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/sa
+public-dns.info: https://public-dns.info/nameserver/sa.html
+
+========================================================================
+Al wafai International For Communication and Information Technology LLC
+========================================================================
+
+Locations:
+Jeddah, Makkah al Mukarramah
+
+IPv4:
+185.51.204.10
+
+Domains:
+ns1.wafai.net.sa
+
+========================================================================
+Applied Technologies Co.
+========================================================================
+
+Locations:
+Riyadh, Ar Riyad
+
+IPv4:
+212.33.190.217
+
+========================================================================
+Digital Technology Co.Ltd.
+========================================================================
+
+Locations:
+Jeddah, Makkah al Mukarramah
+
+IPv4:
+185.137.244.2
+
+Domains:
+ns1.dtcont.com
+
+========================================================================
+GulfNet KSA
+========================================================================
+
+Locations:
+Riyadh, Ar Riyad
+
+IPv4:
+89.237.130.186
+
+Domains:
+static-89-237-130.mobily.com.sa
+
+========================================================================
+Saudi Telecom Company JSC
+========================================================================
+
+Locations:
+Riyadh, Ar Riyad
+
+IPv4:
+51.223.244.240 

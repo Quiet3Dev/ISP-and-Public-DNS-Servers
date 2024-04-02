@@ -1,0 +1,36 @@
+ISP and Public DNS Servers Based in United Arab Emirates
+========================================================================
+                                Country: United Arab Emirates
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ae
+public-dns.info: https://public-dns.info/nameserver/ae.html
+
+========================================================================
+Emirates Integrated Telecommunications Company / PJSC
+========================================================================
+
+Location:
+Dubai, Dubayy
+Sharjah, Dubayy
+
+IPv4:
+94.200.27.186
+213.42.43.226
+213.42.52.22
+5.193.214.223
+5.30.176.77 
+94.203.253.156
+87.200.60.14 
+217.164.255.35
+
+========================================================================
+ORACLE-BMC-31898
+========================================================================
+
+Location:
+Dubai, Dubayy
+
+IPv4:
+193.123.68.154 

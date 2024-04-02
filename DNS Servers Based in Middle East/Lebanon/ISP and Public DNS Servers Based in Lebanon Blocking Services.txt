@@ -1,0 +1,31 @@
+# ISP and Public DNS Servers Based in Lebanon
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Lebanon
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/lb
+# public-dns.info: https://public-dns.info/nameserver/lb.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+77.42.130.37
+77.42.128.37
+89.108.128.220
+89.108.129.220
+141.105.86.130
+212.98.159.195 
+
+========================================================================
+# Domains:
+========================================================================
+
+ogeronet.net
+dns-s2.ogeronet.com
+dns-s1.ogeronet.net
+ns11.sodetel.net.lb
+ns12.sodetel.net.lb
+corp-212-98-159-195.terra.net.lb

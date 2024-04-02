@@ -1,0 +1,19 @@
+# ISP and Public DNS Servers Based in Syria 
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Syria 
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/sy
+# public-dns.info: https://public-dns.info/nameserver/sy.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+82.137.245.66
+188.133.108.132
+91.144.22.198 	
+82.137.250.45 	
+82.137.245.41 	

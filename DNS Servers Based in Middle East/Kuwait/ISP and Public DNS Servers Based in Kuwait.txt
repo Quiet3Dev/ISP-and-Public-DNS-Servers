@@ -1,0 +1,51 @@
+ISP and Public DNS Servers Based in Kuwait
+========================================================================
+                                Country: Kuwait
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/kw
+public-dns.info: https://public-dns.info/nameserver/kw.html
+
+========================================================================
+KEMS Block-A, Floor 7, Souq Al-Kabeer Kuwait City, State of Kuwait P O Box 3623, Safat 13037 KW
+========================================================================
+
+Location:
+Kuwait, Al 'Asimah
+
+IPv4:
+168.187.234.58
+
+========================================================================
+Kuwait Ministry of Finance
+========================================================================
+
+Location:
+Kuwait, Al 'Asimah
+
+IPv4:
+193.33.224.253
+
+========================================================================
+KUWAIT UNIVERSITY
+========================================================================
+
+Location:
+Kuwait, Al 'Asimah
+
+IPv4:
+139.141.236.131
+
+Domains:
+ns2.cba.edu.kw
+
+========================================================================
+Zajil International Telecom Company W.L.L.
+========================================================================
+
+Location:
+Kuwait, Al 'Asimah
+
+IPv4:
+168.187.161.250

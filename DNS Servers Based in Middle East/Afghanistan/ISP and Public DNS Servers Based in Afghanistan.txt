@@ -1,0 +1,31 @@
+# ISP and Public DNS Servers Based in Afghanistan
+========================================================================
+                            # Country: Afghanistan
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/af
+# public-dns.info: https://public-dns.info/nameserver/af.html
+
+========================================================================
+# AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK
+========================================================================
+
+Location:
+Kabul, Kabul
+
+IPv4:
+180.94.94.194
+
+========================================================================
+# Instatelecom Limited
+========================================================================
+
+Location:
+Mazar-e Sharif, Balkh
+
+IPv4:
+117.104.227.243
+
+Domains:
+243.227.104.117-dsl.insta.af

@@ -1,0 +1,31 @@
+ISP and Public DNS Servers Based in Bahrain
+========================================================================
+                                Country: Bahrain
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/bh
+public-dns.info: https://public-dns.info/nameserver/bh.html
+
+========================================================================
+AMAZON-02
+========================================================================
+
+Location:
+Unknown
+
+IPv4:
+157.175.58.241
+
+Domains:
+ec2-157-175-58-241.me-south-1.compute.amazonaws.com
+
+========================================================================
+Etisalcom Bahrain Company W.L.L.
+========================================================================
+
+Location:
+Umm ash Sha'um, Al Janubiyah
+
+IPv4:
+80.95.220.186
