@@ -1,0 +1,20 @@
+ISP and Public DNS Servers Based in Montenegro
+========================================================================
+                                Country: Montenegro
+========================================================================
+
+Sources:
+public-dns.info: https://public-dns.info/nameserver/me.html
+
+========================================================================
+Crnogorski Telekom a.d.Podgorica
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+213.149.113.211 
+
+Domains:
+jumediamont-dan.211.crnagora.net

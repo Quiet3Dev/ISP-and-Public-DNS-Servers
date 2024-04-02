@@ -1,0 +1,43 @@
+# ISP and Public DNS Servers Based in Serbia 
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Serbia
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/rs
+# public-dns.info: https://public-dns.info/nameserver/rs.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+195.252.95.208
+109.245.230.145 
+178.254.129.65
+109.111.229.198 
+37.120.193.219 
+212.200.113.130
+93.86.63.54
+93.87.83.18
+109.92.22.97
+77.46.142.150 
+212.200.90.59 
+77.46.138.33 
+195.178.33.46 
+79.101.99.2 
+109.206.102.149
+
+========================================================================
+# Domains:
+========================================================================
+
+smtp.ateksbg.com
+free-129-65.mediaworksit.net
+kerber.kladovonet.com
+93-86-63-54.static.isp.telekom.rs
+93-87-83-18.static.isp.telekom.rs
+absrv01.atomskabanja.com
+77-46-142-150.static.isp.telekom.rs
+free-229-198.mediaworksit.net
+static-102-149.kbcnet.rs

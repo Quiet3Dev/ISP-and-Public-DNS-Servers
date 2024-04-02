@@ -1,0 +1,36 @@
+# ISP and Public DNS Servers Based in Slovenia
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Slovenia
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/si
+# public-dns.info: https://public-dns.info/nameserver/si.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+193.2.246.9
+193.2.64.46 
+193.2.64.45 
+194.249.3.57 
+193.2.122.11 
+195.250.58.10 
+109.123.19.5
+109.123.30.191 
+193.243.140.10 
+
+========================================================================
+# Domains:
+========================================================================
+
+ns.uil-sipo.si
+metulj.uni-lj.si
+ns.uni-lj.si
+906.ablak.arnes.si
+ns4.actual-it.net
+cpe-19-5.customer.krs.net 	
+cpe-30-191.customer.krs.net
+posita2.posta.si

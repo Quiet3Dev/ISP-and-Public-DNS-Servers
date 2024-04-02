@@ -1,0 +1,71 @@
+ISP and Public DNS Servers Based in Slovenia
+========================================================================
+                                Country: Slovenia
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/si
+public-dns.info: https://public-dns.info/nameserver/si.html
+
+========================================================================
+ARNES
+========================================================================
+
+Locations:
+Ljubljana, Ljubljana
+Šentjernej, Slovenia
+Maribor, Slovenia
+
+IPv4:
+193.2.246.9
+193.2.64.46 
+193.2.64.45 
+194.249.3.57 
+193.2.122.11 
+
+Domains:
+ns.uil-sipo.si
+metulj.uni-lj.si
+ns.uni-lj.si
+906.ablak.arnes.si
+
+========================================================================
+ACTUAL I.T. d.d.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+195.250.58.10 
+
+Domains:
+ns4.actual-it.net
+
+========================================================================
+BBTEL, d.o.o.
+========================================================================
+
+Locations:
+Ruse, Ruse
+
+IPv4:
+109.123.19.5
+109.123.30.191 
+
+Domains:
+cpe-19-5.customer.krs.net 	
+cpe-30-191.customer.krs.net
+
+========================================================================
+Posta Slovenije, d.o.o.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+193.243.140.10 
+
+Domains:
+posita2.posta.si

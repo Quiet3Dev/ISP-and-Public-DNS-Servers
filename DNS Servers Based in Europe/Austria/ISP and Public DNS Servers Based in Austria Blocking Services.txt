@@ -1,0 +1,103 @@
+# ISP and Public DNS Servers Based in Austria
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Austria
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/at
+# public-dns.info: https://public-dns.info/nameserver/at.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+37.235.1.174
+37.235.1.177
+144.208.193.111 
+188.21.14.72
+188.21.38.10 
+193.154.24.186 
+194.118.1.128
+91.112.4.90 
+194.166.64.162 
+46.75.25.74 
+80.89.104.61 
+80.122.170.90 
+212.124.226.243
+212.124.226.242
+185.69.162.149 
+192.71.247.187 
+85.255.157.162 
+188.118.227.21
+77.117.115.199
+37.252.191.76 
+37.252.191.225 
+193.186.170.50
+185.242.177.7
+83.218.176.140
+94.198.41.235 
+83.137.41.8
+83.137.41.9
+194.36.144.87
+193.26.158.9 
+94.16.119.45
+94.16.114.154 
+202.61.230.210 
+94.16.118.150
+202.61.197.135 
+194.36.144.103 
+202.61.203.252 
+202.61.247.8 
+202.61.196.175 
+194.208.13.7 
+212.186.128.58 
+46.124.157.205
+212.236.32.14 
+
+========================================================================
+# IPv6:
+========================================================================
+
+2001:67c:2b0::2
+2001:67c:2b0::1
+
+========================================================================
+# Domains:
+========================================================================
+
+resolver1.freedns.zone.powered.by.virtexxa.com
+resolver2.freedns.zone.powered.by.virtexxa.com
+static-144-208-193-111.dsl.telematica.at
+mail.novarion.com
+193-154-24-186.adsl.highway.telekom.at
+194-118-1-128.hdsl.highway.telekom.at
+194-166-64-162.hdsl.highway.telekom.at
+046075025074.atmpu0009.highway.a1.net
+80-89-104-61.hdsl.highway.telekom.at
+schoeppel.at
+rs-1.chzrch.savvis.net
+rs-1.gkcpnh.savvis.net
+mta3.cornercard.top
+dns-2.space.at
+77.117.115.199.wireless.dyn.drei.com
+ns1.sns-net.com
+rfree2.blue-shield.at
+so-176-140.mynet.at
+dns1.nemox.net
+dns2.nemox.net
+mail.morbitzer.de
+v2202011110851131907.nicesrv.de
+v2202012135973135932.powersrv.de
+ad0ffv4.nicesrv.de
+mail.backenundlifestyle.de
+wearegermans.happysrv.de
+v2202109155873162441.happysrv.de
+v2202103142561144834.powersrv.de
+lemb.one
+194-208-013-007.tele.net
+resolver2.dns.trex.fi
+resolver1.dns.trex.fi
+212-186-128-58.static.upcbusiness.at
+046124157205.public.t-mobile.at
+mail.piit.at

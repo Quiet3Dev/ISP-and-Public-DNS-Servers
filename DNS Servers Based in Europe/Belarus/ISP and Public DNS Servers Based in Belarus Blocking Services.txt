@@ -1,0 +1,30 @@
+# ISP and Public DNS Servers Based in Belarus
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Belarus
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/by
+# public-dns.info: https://public-dns.info/nameserver/by.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+46.175.171.234
+93.125.113.35
+178.124.158.2 
+178.124.152.74 
+213.184.224.254
+213.184.225.37
+37.17.53.108
+
+========================================================================
+# Domains:
+========================================================================
+
+ipoe-static.178.124.158.2.telecom.mogilev.by
+pppoe-static.178.124.152.74.telecom.mogilev.by
+eagle-cl2-out.telecom.by
+reserved.a1.by

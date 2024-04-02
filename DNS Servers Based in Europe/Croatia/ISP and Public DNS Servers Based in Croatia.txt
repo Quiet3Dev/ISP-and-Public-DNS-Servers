@@ -1,0 +1,72 @@
+ISP and Public DNS Servers Based in Croatia
+========================================================================
+                                Country: Croatia
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/hr
+public-dns.info: https://public-dns.info/nameserver/hr.html
+
+========================================================================
+A1 Hrvatska d.o.o.
+========================================================================
+
+Locations:
+Zagreb, Zagreb County
+
+IPv4:
+212.92.193.18 
+212.15.184.190 
+212.15.169.50
+
+Domains:
+srv-212-15-184-190.static.a1.hr
+srv-212-15-169-50.static.a1.hr
+
+========================================================================
+Croatian Academic and Research Network
+========================================================================
+
+Locations:
+Zagreb, Zagreb County
+
+IPv4:
+161.53.147.66 
+
+========================================================================
+ISKON INTERNET d.d. za informatiku i telekomunikacije
+========================================================================
+
+Locations:
+Rijeka, Croatia
+
+IPv4:
+213.191.151.178
+
+========================================================================
+OT - OPTIMA TELEKOM d.d
+========================================================================
+
+Locations:
+Lekenik, Sisacko-moslavacka zupanija
+Zagreb, Zagreb County
+
+IPv4:
+85.114.40.2
+89.201.162.14
+
+Domains:
+mail.auxilium.hr
+
+========================================================================
+Sedmi Odjel d.o.o.
+========================================================================
+
+Locations:
+Đakovo, Croatia
+
+IPv4:
+185.46.34.49
+
+Domains:
+cl49.db-informatika.hr

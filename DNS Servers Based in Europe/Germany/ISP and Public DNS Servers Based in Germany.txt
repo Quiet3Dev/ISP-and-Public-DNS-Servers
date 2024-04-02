@@ -1,0 +1,962 @@
+ISP and Public DNS Servers Based in Germany 
+========================================================================
+                                Country: Germany
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/de
+public-dns.info: https://public-dns.info/nameserver/de.html
+
+========================================================================
+1&1 IONOS SE
+========================================================================
+
+Locations:
+Karlsruhe, Baden-Wurttemberg
+Leverkusen, Germany
+
+IPv4:
+217.160.188.24
+82.165.75.34 
+217.160.247.202 
+
+========================================================================
+1&1 Versatel Deutschland GmbH
+========================================================================
+
+Locations:
+Dortmund, Nordrhein-Westfalen
+Mannheim, Baden-Wurttemberg
+
+IPv4:
+213.138.38.22
+94.135.173.22
+195.226.105.219 
+
+Domains:
+dial-in-b22.mainovatk.de
+
+========================================================================
+23M GmbH
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+185.227.111.35
+
+IPv6:
+2a00:f48:1003:1::759d:c751
+
+========================================================================
+ADDIX Internet Services GmbH
+========================================================================
+
+Locations:
+Kiel, Schleswig-Holstein
+
+IPv4:
+212.51.16.1
+212.51.17.1
+
+Domains:
+ns1.addix.de
+ns2.addix.de
+
+========================================================================
+Astelnet Ltd.
+========================================================================
+
+Locations:
+Prague, Praha, Hlavni mesto
+
+IPv4:
+89.107.129.15
+
+Domains:
+ns2.astelhost.net
+
+========================================================================
+AMAZON-02
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+3.68.30.102 
+35.157.246.127 
+
+Domains:
+ec2-3-68-30-102.eu-central-1.compute.amazonaws.com
+ec2-35-157-246-127.eu-central-1.compute.amazonaws.com
+
+========================================================================
+Aruba SAS
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+89.40.125.143
+
+Domains:
+host143-125-40-89.static.arubacloud.de
+
+========================================================================
+AS-CHOOPA
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+140.82.32.86
+
+Domains:
+140.82.32.86.vultr.com
+
+========================================================================
+Baumann Technologie GmbH
+========================================================================
+
+Locations:
+Oberhausen, Nordrhein-Westfalen
+Berlin, Berlin 
+
+IPv4:
+194.172.160.4
+91.217.86.4 
+
+Domains:
+mci004.btnet.de
+dns0.btnet.de
+
+========================================================================
+becom Systemhaus Verwaltungs-GmbH
+========================================================================
+
+Locations:
+Heuchelheim, Hessen
+
+IPv4:
+195.226.69.5
+
+Domains:
+resolver.becomsys.de
+
+========================================================================
+Bisping & Bisping GmbH & Co KG
+========================================================================
+
+Locations:
+Wuerzburg, Bayern
+
+IPv4:
+62.91.19.67
+
+Domains:
+ns.kneipp.de
+
+========================================================================
+Cheyenne Technologies LLC
+========================================================================
+
+Locations:
+Fairbanks, Alaska
+
+IPv4:
+80.78.134.11
+
+========================================================================
+Contabo GmbH
+========================================================================
+
+Locations:
+Munich, Bayern
+Nuremberg, Nürnberg
+
+IPv4:
+80.241.218.68
+5.189.138.153
+79.143.182.242
+178.238.234.231
+62.171.159.89 
+
+IPv6:
+2a02:c205:3001:4558::1
+
+Domains:
+dismail.de
+dismail.de.
+cloud.mzone.pro
+ns1.contabo.net
+ns2.contabo.net
+vmi373843.contaboserver.net
+
+========================================================================
+CW Vodafone Group PLC
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+141.1.27.249 
+141.1.1.1 
+
+Domains:
+euro-cns1.cw.net
+cns1.cw.net
+
+========================================================================
+Clouvider Limited
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+185.175.208.103 
+
+========================================================================
+Claranet Limited
+========================================================================
+
+Locations:
+Gelsenkirchen, Gelsenkirchen
+
+IPv4:
+62.24.24.89 
+
+========================================================================
+combahton GmbH
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+87.237.52.135 
+
+Domains:
+vps-zap677327-1.zap-srv.com
+
+========================================================================
+Deutsche Telekom AG
+========================================================================
+
+Locations:
+Oberhausen, Nordrhein-Westfalen
+Stuttgart, Baden-Wurttemberg
+Bremen, Bremen
+Frankfurt am Main, Hessen
+Muggenhof, Bayern
+Siegen, Germany
+Karlsruhe, Germany
+Kleve, Germany
+Burgstaedt, Germany
+
+IPv4:
+195.243.214.4
+194.25.0.60
+194.25.0.68
+62.154.253.226
+195.243.99.35
+62.153.165.107
+93.224.108.98 
+193.159.232.6 
+194.25.0.52 
+80.150.254.60 
+
+Domains:
+resolv-h.dtag.de
+resolv-f.dtag.de
+mail.basys-bremen.de
+ns.sitconsult.net
+p5de06c62.dip0.t-ipconnect.de
+www05.lamm.net
+resolv-l.dtag.de
+
+========================================================================
+diva-e Datacenters GmbH
+========================================================================
+
+Locations:
+Freinsheim, Rheinland-Pfalz
+Bad Homburg vor der Hohe, Hessen
+
+IPv4:
+84.200.69.80
+84.200.70.40
+194.26.181.82 
+185.194.239.75 
+
+IPv6:
+2001:1608:10:25::1c04:b12f
+2001:1608:10:25::9249:d69b
+
+Domains:
+bodo.mertens.digital
+
+========================================================================
+DigitalOcean, LLC / DIGITALOCEAN-ASN
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+165.227.162.76
+104.248.31.98 
+139.59.138.126 
+157.230.120.113 
+104.248.142.57
+
+Domains:
+mail.noahgodwin.com
+mavs.mail21.su
+
+========================================================================
+EWE TEL GmbH
+========================================================================
+
+Locations:
+Emlichheim, Niedersachsen
+
+IPv4:
+80.228.63.124
+87.245.18.221
+
+Domains:
+leasedline-static-080-228-063-124.ewe-ip-backbone.de
+static-leasedline-087-245-018-221-teleos.ewe-ip-backbone.de
+
+========================================================================
+EntServ Deutschland GmbH
+========================================================================
+
+Locations:
+Essen, Nordrhein-Westfalen
+
+IPv4:
+149.211.153.50
+
+Domains:
+nserver2.khis.de
+
+========================================================================
+ecotel communication ag
+========================================================================
+
+Locations:
+Braunschweig, Braunschweig
+
+IPv4:
+62.27.108.174 
+
+========================================================================
+EVANZO e-commerce GmbH
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+178.254.9.141 
+
+Domains:
+v9688.1blu.de
+
+========================================================================
+Freie Netze Muenchen e.V.
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+5.1.66.255
+
+========================================================================
+Hetzner Online GmbH
+========================================================================
+
+Locations:
+Nuremberg, Bayern
+Berlin, Berlin
+Falkenstein, Sachsen
+Leipzig, Germany 
+
+IPv4:
+178.63.45.130
+144.76.83.104
+144.76.173.169
+46.4.165.226
+176.9.93.198
+176.9.1.117
+78.47.243.3
+144.76.157.242
+78.46.58.246
+148.251.194.74
+188.40.115.29
+78.46.227.46 
+88.99.199.73 
+159.69.114.157  
+159.69.205.47 
+5.9.142.238 
+78.47.99.226 
+78.47.152.8 
+162.55.0.94 
+148.251.159.173 
+78.47.240.18 
+157.90.116.184 
+
+IPv6:
+2a01:4f8:151:34aa::198
+2a01:4f8:141:316d::117
+2a01:4f8:c17:739a::2
+
+Domains:
+dnsforge.de.
+opendns.itworxx.de
+static.104.83.76.144.clients.your-server.de
+static.169.173.76.144.clients.your-server.de
+de.adhole.org
+fdns2.dismail.de.
+dnsforge.de
+static.3.243.47.78.clients.your-server.de
+cerf.iriseden.eu
+infra.metatux.net
+static.74.194.251.148.clients.your-server.de
+visualsuite.ch
+ns2.derlemue.com
+static.73.199.99.88.clients.your-server.de
+fdns2.dismail.de
+static.47.205.69.159.clients.your-server.de
+suspicious.systems
+hole.now-hosting.ne
+static.8.152.47.78.clients.your-server.de
+static.94.0.55.162.clients.your-server.de
+static.173.159.251.148.clients.your-server.de
+static.18.240.47.78.clients.your-server.de
+pihole.dreamwriter.org
+
+========================================================================
+Hostway Deutschland GmbH
+========================================================================
+
+Locations:
+Datteln, Nordrhein-Westfalen
+
+IPv4:
+81.3.27.54
+
+Domains:
+recursor01.dns.lightningwirelabs.com
+
+========================================================================
+Hughes Network Systems GmbH
+========================================================================
+
+Locations:
+Griesheim, Thuringen
+
+IPv4:
+195.238.40.45
+
+Domains:
+ns1.direcpceu.com
+
+========================================================================
+InfoServe GmbH
+========================================================================
+
+Locations:
+Sankt Arnual, Saarland
+
+IPv4:
+212.89.130.180
+
+Domains:
+resolver1.infoserve.de
+
+========================================================================
+IP Exchange GmbH
+========================================================================
+
+Locations:
+Schwabach, Bayern
+
+IPv4:
+62.146.202.2
+62.146.25.130
+
+Domains:
+ns2.rms-online.de
+
+========================================================================
+Jentec Limited
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+193.58.235.56 
+
+Domains:
+ns1.ccstele.co.uk
+
+========================================================================
+Kamatera Inc
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+185.237.96.58
+
+========================================================================
+Leaseweb Deutschland GmbH
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+84.16.240.43
+
+========================================================================
+Lennart Seitz
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+94.247.43.254
+
+IPv6:
+2a00:f826:8:2::195
+2a00:f826:8:1::254
+
+Domains:
+opennic1.eth-services.de
+opennic1.eth-services.de.
+
+========================================================================
+Linode, LLC
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+172.104.237.57
+172.104.138.247 
+139.162.182.87 
+45.79.248.149 
+172.104.131.10 
+
+Domains:
+resolver3.freedns.zone.powered.by.ihost24.com
+01.mail.voser.cloud
+li1499-87.members.linode.com
+li2155-149.members.linode.com
+li1647-10.members.linode.com
+
+========================================================================
+Lightning Wire Labs GmbH
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv6:
+2001:678:b28::54
+
+Domains:
+recursor01.haj.ipfire.org.
+
+========================================================================
+meerfarbig GmbH & Co. KG
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+195.10.195.195
+
+========================================================================
+MK Netzdienste GmbH & Co. KG
+========================================================================
+
+Locations:
+Krefeld, Nordrhein-Westfalen
+
+IPv4:
+178.210.102.225
+178.210.102.193
+
+========================================================================
+Martin Prager trading as NbIServ
+========================================================================
+
+Locations:
+Bethenhausen, Thuringen
+
+IPv4:
+46.182.19.48
+
+IPv6:
+2a02:2970:1002::18
+
+Domains:
+dns2.digitalcourage.de
+
+========================================================================
+myLoc managed IT AG
+========================================================================
+
+Locations:
+Düsseldorf, Germany
+
+IPv4:
+89.163.221.181
+85.114.138.119 
+213.202.216.236 
+213.202.216.12 
+194.87.138.67 
+
+Domains:
+f622.fuchsia.dedicated.server-hosting.expert
+f662.fuchsia.dedicated.server-hosting.expert
+f508.fuchsia.dedicated.server-hosting.expert
+f407.fuchsia.dedicated.server-hosting.expert
+
+========================================================================
+M247 Ltd
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+185.93.180.131 
+
+Domains:
+frankfurt-ns01.cyberghostvpn.com
+
+========================================================================
+MICROSOFT-CORP-MSN-AS-BLOCK
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+20.52.215.134 
+
+========================================================================
+NetCom BW GmbH
+========================================================================
+
+Locations:
+Stuttgart, Baden-Wurttemberg
+
+IPv4:
+91.103.112.150
+
+========================================================================
+netcup GmbH
+========================================================================
+
+Locations:
+Karlsruhe, Baden-Wurttemberg
+
+IPv4:
+185.233.106.232
+185.233.107.4
+94.16.114.254
+46.38.253.185
+185.244.195.227 
+193.30.120.245 
+81.16.19.65 
+185.243.8.95 
+46.38.240.252 
+148.251.237.90
+185.233.106.157 
+45.136.28.145 
+
+IPv6:
+2a03:4000:24:688::6e73:31
+2a03:4000:24:361::6e73:32
+2a03:4000:4d:c92:88c0:96ff:fec6:b9d
+
+Domains:
+ns1.dnshome.de
+ns2.dnshome.de
+ns1.dnshome.de.
+ns2.dnshome.de.
+mail.morbitzer.de.
+mail.jabber-germany.de
+pi-1.it-sos-bonn.de
+mail.berrnd.net
+vmh-ext2.hosted.berrnd.net
+post1.3gy.de
+v22018044556064524.hotsrv.de
+calvin.fishoeder.net
+eas.easyit2.de
+v22018035970563207.ultrasrv.de
+v2202108150718161413.luckysrv.de
+
+========================================================================
+NetAachen GmbH
+========================================================================
+
+Locations:
+Aachen, Nordrhein-Westfalen
+
+IPv4:
+212.66.129.98
+212.66.129.107
+212.66.129.108
+
+Domains:
+dns.a1-net.de
+na-dns-p01.netaachen.com
+na-dns-p02.netaachen.com
+
+========================================================================
+OVH SAS
+========================================================================
+
+Locations:
+Limburg an der Lahn, Hessen
+
+IPv4:
+51.89.88.77
+
+Domains:
+srv2.it-df.net
+
+========================================================================
+ORACLE-BMC-31898
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+
+IPv4:
+130.61.69.123
+130.61.161.144 
+
+========================================================================
+Probe Networks
+========================================================================
+
+Locations:
+Merzig, Saarland
+
+IPv4:
+82.96.64.2
+82.96.65.2
+
+Domains:
+bandit.probe-networks.de
+trance.probe-networks.de
+
+========================================================================
+R-KOM Regensburger Telekommunikationsverwaltungsgesellschaft mbH trading as R-KOM Telekommunikationsgesellschaft mbH & Co. KG
+========================================================================
+
+Locations:
+Regensburg, Bayern
+
+IPv4:
+81.27.162.100
+
+Domains:
+dns.csa-rz.de
+
+========================================================================
+Strato AG
+========================================================================
+
+Locations:
+Berlin, Berlin
+Fulda, Germany
+
+IPv4:
+81.169.230.157
+85.214.151.164
+85.214.154.81
+81.169.247.81 
+85.214.124.114 
+81.169.133.56
+85.214.24.126 
+
+Domains:
+h2528964.stratoserver.net
+bavs.at
+bavs.net
+vhndrk.de
+h2639131.stratoserver.net
+h2941708.stratoserver.net
+
+========================================================================
+ScanPlus GmbH
+========================================================================
+
+Locations:
+Neu-Ulm, Bayern
+
+IPv4:
+212.211.132.4
+
+Domains:
+nssec03.spxs.net
+
+========================================================================
+SkyLink Data Center BV
+========================================================================
+
+Locations:
+Monschau, Nordrhein-Westfalen
+
+IPv4:
+80.78.132.79
+
+========================================================================
+SPRINTLINK
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+217.151.251.10 
+
+Domains:
+ns2-swiss.sprintlink.net
+
+========================================================================
+Thueringer Netkom GmbH
+========================================================================
+
+Locations:
+Eisenach, Thuringen
+
+IPv4:
+185.38.9.99
+
+========================================================================
+Transkom GmbH
+========================================================================
+
+Locations:
+Kaiserslautern, Rheinland-Pfalz
+
+IPv4:
+212.28.34.65
+
+Domains:
+ns.IBS.de.
+
+========================================================================
+Vodafone Group PLC
+========================================================================
+
+Locations:
+Munich, Bayern
+Dusseldorf, Nordrhein-Westfalen
+
+IPv4:
+141.1.1.1
+141.1.27.249
+194.169.239.10
+
+Domains:
+cns1.cw.net
+euro-cns1.cw.net
+
+========================================================================
+Vodafone GmbH
+========================================================================
+
+Locations:
+Ludwigsburg, Sachsen
+Hildesheim, Niedersachsen
+Magdeburg, Germany
+
+IPv4:
+213.23.108.129
+88.79.149.4
+91.64.248.150 
+
+Domains:
+ns1.compatec-it.de
+ns.compra.de
+ip5b40f896.dynamic.kabel-deutschland.de
+
+========================================================================
+Verizon Business [MCI Communications Services, Inc. d/b/a]
+========================================================================
+
+Locations:
+Frankfurt am Main, Hessen
+Dortmund, Nordrhein-Westfalen
+
+IPv4:
+192.76.144.66
+193.101.111.10
+193.101.111.20
+
+Domains:
+cache0701.ns.eu.uu.net
+cache0702.ns.eu.uu.net
+cache0703.ns.eu.uu.net
+
+========================================================================
+vServer.site LTD
+========================================================================
+
+Locations:
+Rheine, Germany
+
+IPv4:
+185.133.208.32 
+
+Domains:
+srv1.it-df.net
+
+========================================================================
+Wissenschaftsladen Dortmund e.V.
+========================================================================
+
+Locations:
+Dortmund, Nordrhein-Westfalen
+
+IPv4:
+91.204.4.133
+
+Domains:
+ns5.free.de
+
+========================================================================
+Wireless Logic mdex GmbH
+========================================================================
+
+Locations:
+Tangstedt, Schleswig-Holstein
+
+IPv4:
+46.16.216.25
+
+Domains:
+fip-dnsbb-2.mdex.de

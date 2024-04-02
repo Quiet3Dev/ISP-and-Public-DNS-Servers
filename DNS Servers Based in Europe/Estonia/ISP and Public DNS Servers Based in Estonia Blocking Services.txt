@@ -1,0 +1,25 @@
+# ISP and Public DNS Servers Based in Estonia
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Estonia
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/ee
+# public-dns.info: https://public-dns.info/nameserver/ee.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+91.146.95.145 
+46.36.219.173 
+198.180.150.12
+
+========================================================================
+# Domains:
+========================================================================
+
+95145.fill.ee
+s97d01d5f.fastvps-server.com
+rgnet-iad.anycast.censurfridns.dk

@@ -1,0 +1,298 @@
+ISP and Public DNS Servers Based in Sweden
+========================================================================
+                                Country: Sweden
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/se
+public-dns.info: https://public-dns.info/nameserver/se.html
+
+========================================================================
+Atea A/S
+========================================================================
+
+Locations:
+Stockholm, Stockholms lan
+
+IPv4:
+193.183.18.21
+
+Domains:
+ns1.atea.se
+
+========================================================================
+A3 Sverige AB
+========================================================================
+
+Locations:
+Uppsala, Uppsala lan
+Skelleftea, Vasterbottens lan
+Södertälje, Sweden
+
+IPv4:
+87.96.144.179
+146.247.80.144
+95.155.226.229
+80.244.64.68
+85.8.43.18 
+
+Domains:
+h87-96-144-179.cust.a3fiber.se
+h146-247-80-144.cust.a3fiber.se
+h95-155-226-229.cust.a3fiber.se
+h80-244-64-68.cust.a3fiber.se
+h85-8-43-18.cust.a3fiber.se
+
+========================================================================
+AC-Net Externservice AB
+========================================================================
+
+Locations:
+Lycksele, Vasterbottens lan
+
+IPv4:
+81.8.176.251
+
+Domains:
+251.176.8.81.sta.ac-net.se
+
+========================================================================
+AMAZON-02
+========================================================================
+
+Locations:
+Stockholm, Stockholms lan
+
+IPv4:
+13.53.184.235 
+13.53.184.67 
+16.170.15.149 
+13.53.206.191 
+13.51.179.100 
+
+Domains:
+ec2-13-53-184-235.eu-north-1.compute.amazonaws.com
+ec2-13-53-184-67.eu-north-1.compute.amazonaws.com
+ec2-16-170-15-149.eu-north-1.compute.amazonaws.com
+ec2-13-53-206-191.eu-north-1.compute.amazonaws.com
+ec2-13-51-179-100.eu-north-1.compute.amazonaws.com
+
+========================================================================
+ab stract
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+80.78.22.179 
+
+Domains:
+daph.xyz
+
+========================================================================
+ACTIVE 24, s.r.o.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+213.188.153.178 
+
+Domains:
+loopia-vps-0867c86f-da63-482e-b924-c844994d1725-1842.loopiavps.com
+
+========================================================================
+Bahnhof AB
+========================================================================
+
+Locations:
+Karlstad, Varmlands lan
+Stockholm, Stockholms lan
+Skellefteå, Sweden
+Uppsala, Sweden
+Taby, Sweden
+
+IPv4:
+81.170.204.230
+81.170.204.227
+155.4.12.212
+94.254.103.248 
+94.254.93.162 
+158.174.113.182 
+158.174.105.226 
+
+Domains:
+h-204-230.a463.corp.bahnhof.se
+h-204-227.a463.corp.bahnhof.se
+h-12-212.a165.priv.bahnhof.se
+h-94-254-103-248.A303.priv.bahnhof.se
+h-94-254-93-162.A303.priv.bahnhof.se
+h-158-174-113-182.A444.priv.bahnhof.se
+h-158-174-105-226.A465.priv.bahnhof.se
+
+========================================================================
+Bredband2 AB
+========================================================================
+
+Locations:
+Saeffle, Varmlands lan
+Halmstad, Sweden
+Sigtuna, Sweden
+
+IPv4:
+83.233.135.188
+46.162.67.102 
+89.160.81.34 
+
+Domains:
+83-233-135-188.cust.bredband2.com
+46-162-67-102.cust.bredband2.com
+89-160-81-34.cust.bredband2.com
+
+========================================================================
+GleSYS AB
+========================================================================
+
+Locations:
+Stockholm, Stockholms lan
+
+IPv4:
+46.246.29.69
+
+Domains:
+46-246-29-69-static.glesys.net
+
+========================================================================
+IP-Only Networks AB
+========================================================================
+
+Locations:
+Goeteborg, Vastra Gotalands lan
+Lidingoe, Stockholms lan
+
+IPv4:
+194.1.154.37
+91.190.142.200
+
+Domains:
+gw.celab.se
+200.142.190.91.in-addr.arpa
+
+========================================================================
+Media Network i Halmstad AB
+========================================================================
+
+Locations:
+Halmstad, Hallands lan
+
+IPv4:
+89.150.195.195
+
+========================================================================
+Net at Once Sweden AB
+========================================================================
+
+Locations:
+Vaxjo, Kronobergs lan
+
+IPv4:
+151.252.139.24
+
+Domains:
+user24.151-252-139.netatonce.net
+
+========================================================================
+Patrik Lagerman WEB, Enskild Firma
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+193.27.192.15 
+
+========================================================================
+Sundsvall Energi Elnat AB, ServaNet 	
+========================================================================
+
+Locations:
+Hammarstrand, Jamtlands lan
+
+IPv4:
+78.110.93.91
+
+========================================================================
+TELE2
+========================================================================
+
+Locations:
+Simrishamn, Skane lan
+Stockholm, Stockholms lan
+Huddinge, Stockholms lan
+
+IPv4:
+193.178.35.130
+130.244.126.100
+212.247.9.100
+193.15.1.54
+193.42.159.2 
+
+Domains:
+ns.simrishamn.se
+firewall.lo.se
+
+========================================================================
+Telia Company AB
+========================================================================
+
+Locations:
+Glostrup, Hovedstaden
+Goeteborg, Vastra Gotalands lan
+Kungshamn, Vastra Gotalands lan
+Nykoping, Sodermanlands lan
+Umea, Vasterbottens lan
+Limhamn, Sweden
+
+IPv4:
+195.67.27.18
+194.18.61.151
+195.67.74.129
+195.67.74.135
+85.11.24.148
+
+IPv6:
+2a01:3a0:53:53::
+
+Domains:
+mail2.mindark.com
+194-18-61-151.customer.telia.com
+dns.tankbar.com
+ip148.liwalls.riksnet.nu
+dns1.mindark.com
+
+========================================================================
+Telenor Norge AS
+========================================================================
+
+Locations:
+Boden, Sweden
+Kista, Sweden
+Sundbyberg, Sweden
+Gothenburg, Sweden
+Balsta, Sweden
+
+IPv4:
+92.32.36.226 
+85.228.123.252 
+213.112.21.64 
+85.230.246.152 
+213.115.226.2 
+
+Domains:
+c-e224205c.07-179-6c756c1.bbcust.telenor.se
+c-fc7be455.05-402-73746f3.bbcust.telenor.se
+c-401570d5.08-202-73746f4.cust.ownit.se
+c-98f6e655.017-312-6762674.bbcust.telenor.se
+ns1.gns.se

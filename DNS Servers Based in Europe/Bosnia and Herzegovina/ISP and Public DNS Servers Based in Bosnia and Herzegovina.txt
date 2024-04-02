@@ -1,0 +1,48 @@
+ISP and Public DNS Servers Based in Bosnia and Herzegovina
+========================================================================
+                                Country: Bosnia and Herzegovina
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ba
+public-dns.info: https://public-dns.info/nameserver/ba.html
+
+========================================================================
+BH Telecom d.d. Sarajevo
+========================================================================
+
+Locations:
+Gradacac, Federacija Bosne i Hercegovine
+
+IPv4:
+92.36.225.9
+
+========================================================================
+DASTO semtel d.o.o.
+========================================================================
+
+Locations:
+Ljubuski, Bosnia and Herzegovina
+
+IPv4:
+91.191.42.18
+
+========================================================================
+ELTA KABEL d.o.o.
+========================================================================
+
+Locations:
+Banja Luka, Republika Srpska
+
+IPv4:
+188.124.210.1
+
+========================================================================
+Telemach d.o.o. Sarajevo
+========================================================================
+
+Locations:
+Sarajevo, Bosnia and Herzegovina
+
+IPv4:
+77.238.210.30

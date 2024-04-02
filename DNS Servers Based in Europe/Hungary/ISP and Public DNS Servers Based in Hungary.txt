@@ -1,0 +1,218 @@
+ISP and Public DNS Servers Based in Hungary
+========================================================================
+                                Country: Hungary
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/hu
+public-dns.info: https://public-dns.info/nameserver/hu.html
+
+========================================================================
+Budapesti Corvinus Egyetem
+========================================================================
+
+Locations:
+Budapest, Budapest 
+
+IPv4:
+146.110.42.26 
+
+========================================================================
+DIGI Tavkozlesi es Szolgaltato Kft.
+========================================================================
+
+Locations:
+Érd, Hungary
+Budapest, Budapest 
+
+IPv4:
+92.249.219.47 
+78.131.55.38 
+
+Domains:
+92-249-219-47.static.hdsnet.hu
+78-131-55-38.static.hdsnet.hu
+
+========================================================================
+Hurricane Electric LLC
+========================================================================
+
+Locations:
+Fremont, California
+
+IPv6:
+2001:470:2351::1
+2001:470:2351:11::1
+
+========================================================================
+Invitech ICT Services Kft.
+========================================================================
+
+Locations:
+Hajduszoboszlo, Hajdu-Bihar
+Budapest, Budapest 
+
+IPv4:
+82.141.171.84
+79.120.177.106 
+82.141.136.2 
+
+Domains:
+mail.andapresent.hu
+mail.proxynet.hu
+
+========================================================================
+Inclust System Ltd.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+178.238.217.112 
+
+Domains:
+ip.178.238.217.112.inclust.net
+
+========================================================================
+KIFU (Governmental Info Tech Development Agency)
+========================================================================
+
+Locations:
+Miskolc, Hungary
+
+IPv4:
+193.6.10.1 
+
+IPv6:
+2001:738:6001:b0b0::1000
+
+Domains:
+dns.uni-miskolc.hu
+
+========================================================================
+Magyar Telekom plc.
+========================================================================
+
+Locations:
+Budapest, Budapest
+Pécs, Hungary
+Vecses, Hungary
+Esztergom, Hungary
+Fertod, Hungary
+
+IPv4:
+195.228.140.138
+195.228.219.226
+31.46.41.214
+81.182.243.24 
+195.228.123.142
+188.36.0.10 
+81.183.254.8 
+84.3.212.129 
+188.156.4.151 
+
+Domains:
+www.olajterv.hu
+dslc3e4dbe2.fixip.t-online.hu
+dsl1F2E29D6.fixip.t-online.hu
+dsl51B6F318.fixip.t-online.hu
+mllnC3E47B8E.fixip.t-online.hu
+BC24000A.catv.pool.telekom.hu
+5403D481.catv.pool.telekom.hu
+BC9C0497.mobile.pool.telekom.hu
+
+========================================================================
+M247 Ltd
+========================================================================
+
+Locations:
+Budapest, Budapest 
+
+IPv4:
+86.106.74.219 
+
+========================================================================
+OPC Networks Kft.
+========================================================================
+
+Locations:
+Kecskemet, Bacs-Kiskun
+
+IPv4:
+91.137.135.75
+85.90.160.69
+
+Domains:
+91-137-135-75.opticon.hu
+host-160-69.opticon.hu
+
+========================================================================
+PR-TELECOM ZRt.
+========================================================================
+
+Locations:
+Sátoraljaújhely, Hungary
+Budapest, Budapest 
+
+IPv4:
+88.132.34.230
+87.242.55.175
+
+Domains:
+host-88-132-34-230.prtelecom.hu
+host-87-242-55-175.prtelecom.hu
+
+========================================================================
+RackForest Kft.
+========================================================================
+
+Locations:
+Budapest, Budapest 
+
+IPv4:
+185.43.205.213 
+
+Domains:
+sh.nosoul.hu
+
+========================================================================
+SigmaNet Szolgaltato es Kereskedelm Ltd
+========================================================================
+
+Locations:
+Budapest, Budapest
+
+IPv4:
+87.229.99.1
+
+Domains:
+ns1.sigmanet.hu
+
+========================================================================
+Szatmarnet Bt.
+========================================================================
+
+Locations:
+Győr, Hungary
+Budapest, Budapest 
+
+IPv4:
+46.107.230.156 
+78.92.231.44 
+
+Domains:
+46.107.230.156.szatmarnet.hu
+
+========================================================================
+Vodafone Hungary Ltd.
+========================================================================
+
+Locations:
+Budapest, Budapest 
+
+IPv4:
+86.101.187.193
+
+Domains:
+business-86-101-187-193.business.broadband.hu

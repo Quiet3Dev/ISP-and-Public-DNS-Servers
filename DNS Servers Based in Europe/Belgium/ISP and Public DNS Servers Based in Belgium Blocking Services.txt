@@ -1,0 +1,72 @@
+# ISP and Public DNS Servers Based in Belgium
+# Blocking Serivces for ISP and Public DNS Servers
+========================================================================
+                            # Country: Belgium
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/be
+# public-dns.info: https://public-dns.info/nameserver/be.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+85.26.66.143 
+62.197.120.226 
+171.25.229.166
+185.92.196.182
+94.105.121.197 
+35.195.93.204 
+34.78.13.149 
+35.210.235.35 
+195.35.110.4
+81.95.125.20
+194.124.41.176 
+37.120.236.11 
+62.213.218.22
+91.183.238.145
+194.78.185.81
+81.243.228.44 
+109.136.17.84 
+109.132.235.131 
+83.134.123.101
+81.82.250.182
+81.82.196.44
+81.82.199.111
+81.83.12.253
+81.83.18.23
+81.83.19.129
+84.199.232.98
+194.7.15.70 
+194.7.1.4
+194.50.91.46 
+
+========================================================================
+# Domains:
+========================================================================
+
+host-85-26-66-143.dynamic.voo.be
+host-62-197-120-226.dynamic.voo.be
+171.25.229.166.static.ipworks.be
+94.105.121.197.dyn.edpnet.net
+204.93.195.35.bc.googleusercontent.com
+149.13.78.34.bc.googleusercontent.com
+35.235.210.35.bc.googleusercontent.com
+ns1.be.ihost.com
+62.213.218.22.one.cloudstar.be
+145.238-183-91.adsl-static.isp.belgacom.be
+81.185-78-194.adsl-static.isp.belgacom.be
+44.228-243-81.adsl-dyn.isp.belgacom.be
+131.235-132-109.adsl-dyn.isp.belgacom.be
+ip-83-134-123-101.dsl.scarlet.be
+d5152fab6.static.telenet.be
+d5152c42c.static.telenet.be
+d5152c76f.static.telenet.be
+d51530cfd.static.telenet.be
+d51531217.static.telenet.be
+d51531381.static.telenet.be
+d54c7e862.static.telenet.be
+cache0301.ns.eu.uu.net
+cache0100.ns.eu.uu.net
+194.50.91.46.powered-by.willux.be

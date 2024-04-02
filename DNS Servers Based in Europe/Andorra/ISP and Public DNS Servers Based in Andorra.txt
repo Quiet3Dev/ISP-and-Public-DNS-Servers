@@ -1,0 +1,26 @@
+ISP and Public DNS Servers Based in Andorra
+========================================================================
+                                Country: Andorra
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ad
+public-dns.info: https://public-dns.info/nameserver/ad.html
+
+========================================================================
+ANDORRA TELECOM SAU
+========================================================================
+
+Locations:
+Les Escaldes, Escaldes-Engordany
+Andorra la Vella, Andorra la Vella
+
+IPv4:
+85.94.178.198
+194.158.78.137
+91.187.70.80 
+
+Domains:
+m85-94-178-198.andorpac.ad
+ns1.xena.ad
+m91-187-70-80.andorpac.ad

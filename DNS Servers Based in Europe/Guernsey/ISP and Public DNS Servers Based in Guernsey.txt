@@ -1,0 +1,20 @@
+ISP and Public DNS Servers Based in Guernsey
+========================================================================
+                                Country: Guernsey
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/gg
+
+========================================================================
+JT (Jersey) Limited
+========================================================================
+
+Locations:
+Saint Peter Port, Guernsey
+
+IPv4:
+78.41.5.211
+
+Domains:
+211.5.41.78.jtglobal.com

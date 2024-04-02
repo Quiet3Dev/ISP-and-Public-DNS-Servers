@@ -1,0 +1,155 @@
+ISP and Public DNS Servers Based in Greece
+========================================================================
+                                Country: Greece
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/gr
+public-dns.info: https://public-dns.info/nameserver/gr.html
+
+========================================================================
+DELTA S.A.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+193.218.225.38 
+
+Domains:
+ribo.delta.gr
+
+========================================================================
+Forthnet
+========================================================================
+
+Locations:
+Athens, Attiki
+
+IPv4:
+188.4.180.225 
+
+Domains:
+188.4.180.225.dsl.dyn.forthnet.gr
+
+========================================================================
+Hellenic Parliament
+========================================================================
+
+Locations:
+Galatsi, Greece
+
+IPv4:
+195.251.32.71
+
+Domains:
+pluton.parliament.gr
+
+========================================================================
+Kosmocar S.A.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+193.110.86.21
+
+Domains:
+athkosproxy.kosmocar.gr
+
+========================================================================
+MVPS LTD
+========================================================================
+
+Locations:
+Athens, Attiki
+
+IPv4:
+185.243.214.17 
+
+Domains:
+no-reverse-yet.local
+
+========================================================================
+National Infrastructures for Research and Technology S.A.
+========================================================================
+
+Locations:
+Athens, Attiki
+
+IPv4:
+194.177.210.210
+83.212.12.67
+195.130.67.4 
+195.130.67.5 
+193.218.36.234 
+83.212.108.245 
+
+Domains:
+pdns1.grnet.gr
+ns.aspete.gr
+dns.teiser.gr
+snf-882282.vm.okeanos.grnet.gr
+
+========================================================================
+OTEnet S.A.
+========================================================================
+
+Locations:
+Athens, Attiki
+Peristerion, Greece
+Pátrai, Greece
+Heraklion, Greece
+Kozani, Greece
+
+IPv4:
+2.84.158.131 
+79.130.238.94
+94.64.107.10 
+94.70.104.58
+2.85.104.249 
+
+Domains:
+ppp-2-84-158-131.home.otenet.gr
+athedsl-4423278.home.otenet.gr
+ppp-94-64-107-10.home.otenet.gr
+athedsl-4561970.home.otenet.gr
+ppp-2-85-104-249.home.otenet.gr
+
+========================================================================
+SYNAPSECOM S.A. Provider of Telecommunications and Internet Services
+========================================================================
+
+Locations:
+Thessaloniki, Greece
+
+IPv4:
+192.71.166.92
+
+Domains:
+opennict2.libreops.cc
+
+========================================================================
+University Of Ioannina
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+194.177.199.1
+
+Domains:
+wwwserver.ioa.teiep.gr
+
+========================================================================
+VODAFONE-PANAFON HELLENIC TELECOMMUNICATIONS COMPANY SA
+========================================================================
+
+Locations:
+Athens, Attiki
+
+IPv4:
+195.97.81.210

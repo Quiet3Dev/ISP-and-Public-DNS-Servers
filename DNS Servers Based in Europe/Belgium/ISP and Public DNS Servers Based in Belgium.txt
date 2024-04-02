@@ -1,0 +1,224 @@
+ISP and Public DNS Servers Based in Belgium
+========================================================================
+                                Country: Belgium
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/be
+public-dns.info: https://public-dns.info/nameserver/be.html
+
+========================================================================
+Brutele SC
+========================================================================
+
+Locations:
+Bolland, Belgium
+Herstal, Belgium
+
+IPv4:
+85.26.66.143 
+62.197.120.226 
+
+Domains:
+host-85-26-66-143.dynamic.voo.be
+host-62-197-120-226.dynamic.voo.be
+
+========================================================================
+Cobalt Group BV
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+171.25.229.166
+
+Domains:
+171.25.229.166.static.ipworks.be
+
+========================================================================
+Effix Group
+========================================================================
+
+Locations:
+Waregem, West-Vlaanderen
+
+IPv4:
+185.92.196.182
+
+========================================================================
+EDPNET NV
+========================================================================
+
+Locations:
+Brussels, Brussels Hoofdstedelijk Gewest
+
+IPv4:
+94.105.121.197 
+
+Domains:
+94.105.121.197.dyn.edpnet.net
+
+========================================================================
+GOOGLE
+========================================================================
+
+Locations:
+Brussels, Brussels Hoofdstedelijk Gewest
+
+IPv4:
+35.195.93.204 
+34.78.13.149 
+35.210.235.35 
+
+Domains:
+204.93.195.35.bc.googleusercontent.com
+149.13.78.34.bc.googleusercontent.com
+35.235.210.35.bc.googleusercontent.com
+
+========================================================================
+International Business Machines of Belgium Ltd
+========================================================================
+
+Locations:
+Brussels, Brussels Hoofdstedelijk Gewest
+
+IPv4:
+195.35.110.4
+
+Domains:
+ns1.be.ihost.com
+
+========================================================================
+lcp nv
+========================================================================
+
+Locations:
+Brugge, West-Vlaanderen
+Antwerp, Antwerp
+
+IPv4:
+81.95.125.20
+194.124.41.176 
+
+========================================================================
+M247 Ltd
+========================================================================
+
+Locations:
+Brussels, Brussels Hoofdstedelijk Gewest
+
+IPv4:
+37.120.236.11 
+
+========================================================================
+Kangaroot BVBA
+========================================================================
+
+Locations:
+Wilsele, Belgium
+
+IPv4:
+62.213.218.22
+
+Domains:
+62.213.218.22.one.cloudstar.be
+
+========================================================================
+Proximus NV
+========================================================================
+
+Locations:
+Brussels, Brussels Hoofdstedelijk Gewest
+Mons, Hainaut
+La Hulpe, Belgium
+Hasselt, Belgium
+Chapon-Seraing, Belgium
+ 
+IPv4:
+91.183.238.145
+194.78.185.81
+81.243.228.44 
+109.136.17.84 
+109.132.235.131 
+83.134.123.101 
+
+Domains:
+145.238-183-91.adsl-static.isp.belgacom.be
+81.185-78-194.adsl-static.isp.belgacom.be
+44.228-243-81.adsl-dyn.isp.belgacom.be
+131.235-132-109.adsl-dyn.isp.belgacom.be
+ip-83-134-123-101.dsl.scarlet.be
+
+========================================================================
+Telenet BVBA
+========================================================================
+
+Locations:
+Antwerpen, Antwerpen
+Zaventem, Vlaams-Brabant
+Leuven, Vlaams-Brabant
+Turnhout, Antwerpen
+Kortrijk, West-Vlaanderen
+Gent, Oost-Vlaanderen
+Mechelen, Antwerpen
+
+IPv4:
+81.82.250.182
+81.82.196.44
+81.82.199.111
+81.83.12.253
+81.83.18.23
+81.83.19.129
+84.199.232.98
+
+Domains:
+d5152fab6.static.telenet.be
+d5152c42c.static.telenet.be
+d5152c76f.static.telenet.be
+d51530cfd.static.telenet.be
+d51531217.static.telenet.be
+d51531381.static.telenet.be
+d54c7e862.static.telenet.be
+
+========================================================================
+UUNET
+========================================================================
+
+Locations:
+Opglabbeek, Oudsbergen
+Sint-Denijs-Westrem, Ghent
+
+IPv4:
+194.7.15.70 
+194.7.1.4
+
+Domains:
+cache0301.ns.eu.uu.net
+cache0100.ns.eu.uu.net
+
+========================================================================
+Verizon Business [MCI Communications Services, Inc. d/b/a]
+========================================================================
+
+Locations:
+Machelen, Vlaams-Brabant
+
+IPv4:
+194.7.1.4
+
+Domains:
+cache0100.ns.eu.uu.net
+
+========================================================================
+WILLUX.be N.V.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+194.50.91.46 
+
+Domains:
+194.50.91.46.powered-by.willux.be

@@ -1,0 +1,116 @@
+ISP and Public DNS Servers Based in Finland
+========================================================================
+                                Country: Finland
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/fi
+public-dns.info: https://public-dns.info/nameserver/fi.html
+
+========================================================================
+ab stract
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+185.193.127.156 
+185.193.127.98
+
+Domains:
+pistada.com
+host-185-193-127-98.njalla.net
+
+========================================================================
+GOOGLE
+========================================================================
+
+Locations:
+Lappeenranta, Finland
+
+IPv4:
+35.228.49.112 
+
+Domains:
+112.49.228.35.bc.googleusercontent.com
+
+========================================================================
+Hetzner Online GmbH
+========================================================================
+
+Locations:
+Helsinki, Uusimaa
+
+IPv4:
+95.217.229.211
+95.217.202.35
+65.21.131.66 
+95.216.191.48 
+135.181.34.64
+95.217.9.37 
+135.181.93.223 
+95.217.179.114 
+95.217.186.173 
+95.216.196.19
+95.217.213.52
+65.21.52.116 
+65.21.57.198 
+95.216.145.206 
+95.217.179.1 
+95.216.20.138 
+65.21.3.2 
+135.181.44.96 
+135.181.100.234 
+65.21.1.54 
+65.21.48.158 
+95.216.239.102 
+95.217.129.57 
+65.21.186.127 
+65.21.30.170
+95.216.161.85 
+65.21.151.121 
+
+Domains:
+renard.iriseden.eu
+nordgedanken.dev
+dns.jekyo.com
+static.48.191.216.95.clients.your-server.de
+dns.paltin.net
+static.37.9.217.95.clients.your-server.de
+static.223.93.181.135.clients.your-server.de
+pi.panel1.de
+kermit.hswn.dk
+static.19.196.216.95.clients.your-server.de
+dns.danielgorbe.com
+static.116.52.21.65.clients.your-server.de
+static.198.57.21.65.clients.your-server.de
+inima.one
+smtp5.argomedia.it
+moonshine.palmasolutions.net
+static.2.3.21.65.clients.your-server.de
+static.96.44.181.135.clients.your-server.de
+static.234.100.181.135.clients.your-server.de
+pi2.panel1.de
+static.158.48.21.65.clients.your-server.de
+pihole.eth0.cloud
+static.57.129.217.95.clients.your-server.de
+static.127.186.21.65.clients.your-server.de
+static.170.30.21.65.clients.your-server.de
+mail.sadder.wtf
+static.121.151.21.65.clients.your-server.de
+
+========================================================================
+TREX Regional Exchanges Oy
+========================================================================
+
+Locations:
+Tampere, Pirkanmaa
+
+IPv4:
+195.140.195.21
+195.140.195.22
+
+Domains:
+resolver1.dns.trex.fi
+resolver2.dns.trex.fi

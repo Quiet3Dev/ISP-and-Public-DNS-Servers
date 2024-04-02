@@ -1,0 +1,54 @@
+# ISP and Public DNS Servers Based in Greece
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Greece
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/gr
+# public-dns.info: https://public-dns.info/nameserver/gr.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+193.218.225.38 
+188.4.180.225
+195.251.32.71
+193.110.86.21
+185.243.214.17 
+194.177.210.210
+83.212.12.67
+195.130.67.4 
+195.130.67.5 
+193.218.36.234 
+83.212.108.245 
+2.84.158.131 
+79.130.238.94
+94.64.107.10 
+94.70.104.58
+2.85.104.249 
+192.71.166.92
+194.177.199.1
+195.97.81.210
+
+========================================================================
+# Domains:
+========================================================================
+
+ribo.delta.gr
+188.4.180.225.dsl.dyn.forthnet.gr
+pluton.parliament.gr
+athkosproxy.kosmocar.gr
+no-reverse-yet.local
+pdns1.grnet.gr
+ns.aspete.gr
+dns.teiser.gr
+snf-882282.vm.okeanos.grnet.gr
+ppp-2-84-158-131.home.otenet.gr
+athedsl-4423278.home.otenet.gr
+ppp-94-64-107-10.home.otenet.gr
+athedsl-4561970.home.otenet.gr
+ppp-2-85-104-249.home.otenet.gr
+opennict2.libreops.cc
+wwwserver.ioa.teiep.gr

@@ -1,0 +1,21 @@
+ISP and Public DNS Servers Based in Aland Islands
+========================================================================
+                                Country: Aland Islands
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/ax
+
+========================================================================
+Alands Telekommunikation Ab
+========================================================================
+
+Locations:
+Mariehamn, Mariehamn
+
+IPv4:
+194.110.177.46
+
+Domains:
+mowgli.consilia.ax
+

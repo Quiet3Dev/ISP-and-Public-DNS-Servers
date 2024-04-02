@@ -1,0 +1,25 @@
+# ISP and Public DNS Servers Based in Malta
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Malta
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/mt
+# public-dns.info: https://public-dns.info/nameserver/mt.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+195.158.110.109
+195.158.101.131
+194.105.32.2
+
+========================================================================
+# Domains:
+========================================================================
+
+mail.telesystems.com.mt
+mail.koptaco.com
+access.com.mt

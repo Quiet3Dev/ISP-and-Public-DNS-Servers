@@ -1,0 +1,507 @@
+ISP and Public DNS Servers Based in Italy
+========================================================================
+                                Country: Italy
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/it
+public-dns.info: https://public-dns.info/nameserver/it.html
+
+========================================================================
+Aruba S.p.A. 	
+========================================================================
+
+Locations:
+Bibbiena, Toscana
+Arezzo, Province of Arezzo
+
+IPv4:
+62.149.128.4
+62.149.132.2
+62.149.128.2 
+94.177.173.194
+80.211.55.138 
+217.61.63.131
+212.237.4.162 
+217.61.122.115 
+195.231.79.184
+94.177.171.57 
+80.211.80.126 
+31.14.135.143 
+
+Domains:
+dns.aruba.it
+dns2.technorail.com
+dns.technorail.com
+host194-173-177-94.serverdedicati.aruba.it
+host138-55-211-80.serverdedicati.aruba.it
+puredns.ascservices.it
+arna.bio
+host115-122-61-217.static.arubacloud.com
+host184-79-231-195.serverdedicati.aruba.it
+host57-171-177-94.serverdedicati.aruba.it
+host126-80-211-80.serverdedicati.aruba.it
+host143-135-14-31.serverdedicati.aruba.it
+dns4.aruba.it
+
+========================================================================
+AGSM Lighting SRL 	
+========================================================================
+
+Locations:
+Verona, Veneto
+
+IPv4:
+213.171.110.153
+
+Domains:
+dns3.wintrade.it
+
+========================================================================
+Archimedia SRL
+========================================================================
+
+Locations:
+Brescia, Lombardia
+
+IPv4:
+88.80.64.8
+
+========================================================================
+AMAZON-02
+========================================================================
+
+Locations:
+Milan, Metropolitan City of Milan
+
+IPv4:
+15.161.143.230 
+15.161.190.206 
+15.160.35.171 
+
+Domains:
+ec2-15-161-143-230.eu-south-1.compute.amazonaws.com
+ec2-15-161-190-206.eu-south-1.compute.amazonaws.com
+ec2-15-160-35-171.eu-south-1.compute.amazonaws.com
+
+========================================================================
+ALIDA SRL
+========================================================================
+
+Locations:
+Potenza, Province of Potenza
+
+IPv4:
+46.231.32.23 
+
+Domains:
+sole1-023.alida.it
+
+========================================================================
+BT Italia S.p.A.
+========================================================================
+
+Locations:
+Rome, Lazio
+
+IPv4:
+78.7.251.131
+
+Domains:
+78-7-251-131-static.albacom.net
+
+========================================================================
+Brennercom S.p.A.
+========================================================================
+
+Locations:
+Nals, Province of Bolzano
+
+IPv4:
+46.234.226.122 
+
+Domains:
+46-234-226-122.ip.bkom.it
+
+========================================================================
+Basic Net SpA
+========================================================================
+
+Locations:
+Turin, Metropolitan City of Turin
+
+IPv4:
+194.153.131.18
+
+========================================================================
+Consortium GARR
+========================================================================
+
+Locations:
+Milan, Metropolitan City of Milan
+
+IPv4:
+131.175.17.10
+
+Domains:
+planetlab2.elet.polimi.it
+
+========================================================================
+Digital Telco s.r.l.
+========================================================================
+
+Locations:
+Putignano, Puglia
+
+IPv4:
+80.83.162.11
+80.83.162.8
+
+Domains:
+ns1.media.it
+ns1.onlineitalia.com
+
+========================================================================
+Dieffeitalia.it S.r.l.
+========================================================================
+
+Locations:
+Martina Franca, Province of Taranto
+
+IPv4:
+185.132.228.226 
+
+========================================================================
+EOLO S.p.A.
+========================================================================
+
+Locations:
+Grandate, Province of Como
+
+IPv4:
+128.116.241.37 
+
+Domains:
+128-116-241-37.dyn.eolo.it
+
+========================================================================
+Fastweb SpA
+========================================================================
+
+Locations:
+Milan, Lombardia
+Torino, Piemonte
+Catania, Province of Catania
+San Pietro in Cariano, San Pietro in Cariano
+Rome, Roma
+Modugno, Metropolitan City of Bari
+Nerviano, Metropolitan City of Milan
+Lomazzo, Province of Como
+Palermo, Province of Palermo
+
+IPv4:
+213.156.49.106
+83.103.61.107
+93.63.229.132
+83.103.36.213
+89.96.160.83
+93.40.12.122 
+93.41.133.226
+93.42.231.9
+2.236.240.61 
+93.55.81.157 
+93.49.252.90 
+93.38.127.199 
+2.232.249.134 
+
+Domains:
+ns.unisal.it
+83-103-61-107.ip.fastwebnet.it
+93-63-229-132.ip29.fastwebnet.it
+83-103-36-213.ip.fastwebnet.it
+89-96-160-83.ip13.fastwebnet.it
+93-40-12-122.ip36.fastwebnet.it
+93-41-133-226.ip81.fastwebnet.it
+93-42-231-9.ip88.fastwebnet.it
+2-236-240-61.ip235.fastwebnet.it
+93-38-127-199.ip70.fastwebnet.it
+
+========================================================================
+Giunti Editore S.p.A.
+========================================================================
+
+Locations:
+Unknown
+
+IPv4:
+193.22.90.72 
+
+========================================================================
+IRIDEOS S.P.A.
+========================================================================
+
+Locations:
+Campi Bisenzio, Toscana
+Milan, Lombardia
+Rome, Lazio
+Mestre, Metropolitan City of Venice
+
+IPv4:
+217.12.181.97
+212.97.32.2
+94.141.24.92
+62.94.0.42
+85.47.198.82
+109.168.35.230 
+
+Domains:
+ns2.infracom.it
+dns1.kpnqwest.it
+dns2.kpnqwest.it
+ns4.eutelia.it
+host-85-47-198-82.business.telecomitalia.it
+230.35.168.109.dsl.static.ip.kpnqwest.it
+
+========================================================================
+Irpinia Net-Com SRL
+========================================================================
+
+Locations:
+Capaccio, Campania
+
+IPv4:
+37.99.224.30
+
+Domains:
+captive-gw.as48500.net
+
+========================================================================
+LA Wireless Srl
+========================================================================
+
+Locations:
+Lodi, Lombardia
+Albese Con Cassano, Province of Como Italy
+
+IPv4:
+109.70.207.80
+109.70.207.44 
+109.70.207.43 
+
+========================================================================
+Leonet4cloud srl
+========================================================================
+
+Locations:
+Empoli, Toscana
+
+IPv4:
+212.19.96.2
+212.19.106.134
+
+Domains:
+dns.leonet.it
+dns.info-ser.it
+
+========================================================================
+Lowhosting services of Davide Gennari
+========================================================================
+
+Locations:
+Rovigo, Province of Rovigo
+
+IPv4:
+45.141.57.8 
+
+Domains:
+recursive-nameserver1.lowhosting.org
+
+========================================================================
+MYNET S.R.L.
+========================================================================
+
+Locations:
+Viadana, Lombardia
+
+IPv4:
+93.91.140.127
+
+Domains:
+h127-ipv4-93-91-140.mynet.it
+
+========================================================================
+M247 Ltd
+========================================================================
+
+Locations:
+Rome, Roma
+Milan, Metropolitan City of Milan
+
+IPv4:
+37.120.207.131 
+217.138.219.219 
+
+========================================================================
+Noinet Societa Cooperativa
+========================================================================
+
+Locations:
+Cerveteri, Metropolitan City of Rome
+
+IPv4:
+85.208.76.2 
+
+========================================================================
+Prometeus di Daniela Agro
+========================================================================
+
+Locations:
+Stockholm, Stockholms lan
+Milan, Metropolitan City of Milan
+
+IPv4:
+193.183.98.66
+192.71.245.208
+37.247.48.69 
+
+Domains:
+vps-192-71-245-208.prometeus.net
+
+========================================================================
+Prometeo S.p.A.
+========================================================================
+
+Locations:
+Segusino, Province of Treviso
+
+IPv4:
+193.238.77.62
+193.238.77.61
+
+Domains:
+ns2.prometeo.com
+ns1.prometeo.com
+
+========================================================================
+POSITIVO SRL
+========================================================================
+
+Locations:
+San Leonardo, Friuli-Venezia Giulia
+
+IPv4:
+91.214.72.34
+
+Domains:
+ns2.rpengineering.it
+
+========================================================================
+Reti Telematiche Italiane S.p.A. (Retelit S.p.A.)
+========================================================================
+
+Locations:
+Milan, Metropolitan City of Milan
+
+IPv4:
+217.19.153.3 
+
+Domains:
+dns2.netorange.it
+
+========================================================================
+Sardegna Wifi Srl
+========================================================================
+
+Locations:
+Arzachena, Province of Sassari
+
+IPv4:
+109.104.255.247 
+
+========================================================================
+Telecom Italia S.p.A.
+========================================================================
+
+Locations:
+Ceva, Piemonte
+Milan, Lombardia
+Casale sul Sile, Province of Treviso
+Arezzo, Province of Arezzo
+Monte San Pietro, Metropolitan City of Bologna
+Rome, Metropolitan City of Rome
+Piombino, Province of Livorno
+Naples, Metropolitan City of Naples
+Foggia, Province of Foggia
+Pozzolengo, Province of Brescia
+
+IPv4:
+81.116.141.156
+62.86.183.222
+217.141.224.46
+85.47.198.82 
+79.20.63.201
+87.1.23.116 
+85.47.101.253 
+79.45.0.110 
+87.9.44.45
+79.37.158.8 
+82.57.137.47 
+79.50.161.252 
+82.49.92.240 
+79.21.173.117 
+79.25.27.194 
+81.116.141.156 
+87.23.196.161 
+
+Domains:
+host-81-116-141-156.business.telecomitalia.it
+host-62-86-183-222.business.telecomitalia.it
+host-217-141-224-46.business.telecomitalia.it
+host-85-47-198-82.business.telecomitalia.it
+host-79-20-63-201.retail.telecomitalia.it
+host-87-1-23-116.retail.telecomitalia.it
+host-85-47-101-253.business.telecomitalia.it
+host-79-45-0-110.retail.telecomitalia.it
+host-87-9-44-45.retail.telecomitalia.it
+host-79-37-158-8.retail.telecomitalia.it
+host-82-57-137-47.retail.telecomitalia.it
+host-79-50-161-252.retail.telecomitalia.it
+host-82-49-92-240.retail.telecomitalia.it
+host-79-21-173-117.retail.telecomitalia.it
+host-79-25-27-194.retail.telecomitalia.it
+host-81-116-141-156.business.telecomitalia.it
+dns.fixingup.world
+
+========================================================================
+Tiscali SpA
+========================================================================
+
+Locations:
+Cordenons, Province of Pordenone
+Bologna, Metropolitan City of Bologna
+
+IPv4:
+217.133.16.126 
+62.11.222.152 
+
+Domains:
+217-133-16-126.static.clienti.tiscali.it
+62-11-222-152.dialup.tiscali.it
+
+========================================================================
+Vodafone Italia S.p.A.
+========================================================================
+
+Locations:
+Milan, Metropolitan City of Milan
+Massa, Province of Massa and Carrara
+
+IPv4:
+188.216.77.204 
+2.38.94.246 
+2.35.1.180
+
+Domains:
+net-188-216-77-204.cust.vodafonedsl.it
+net-2-38-94-246.cust.vodafonedsl.it
+net-2-35-1-180.cust.vodafonedsl.it

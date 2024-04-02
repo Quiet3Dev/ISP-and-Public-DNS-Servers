@@ -1,0 +1,245 @@
+ISP and Public DNS Servers Based in Denmark
+========================================================================
+                                Country: Denmark
+========================================================================
+
+Sources:
+dnschecker.org: https://dnschecker.org/public-dns/dk
+public-dns.info: https://public-dns.info/nameserver/dk.html
+
+========================================================================
+ASERGO Scandinavia ApS 	
+========================================================================
+
+Locations:
+Copenhagen, Hovedstaden
+
+IPv4:
+82.103.129.72
+
+Domains:
+e82-103-129-72s.asergo.com
+
+========================================================================
+Aura Fiber OE A/S
+========================================================================
+
+Locations:
+Hojbjerg, Denmark
+
+IPv4:
+85.191.50.54 
+
+========================================================================
+Dansk Kabel Tv A/s
+========================================================================
+
+Locations:
+Bronshoj, Copenhagen
+
+IPv4:
+91.100.105.195 
+
+Domains:
+91.100.105.195.generic-hostname.arrownet.dk
+
+========================================================================
+Eniig Fiber A/S
+========================================================================
+
+Locations:
+Nibe, Denmark
+
+IPv4:
+85.191.219.137 
+
+========================================================================
+Forskningsnettet - Danish network for Research and Education
+========================================================================
+
+Locations:
+Kongens Lyngby, Hovedstaden
+
+IPv4:
+130.225.244.166
+130.226.161.34
+
+IPv6:
+2001:878:0:e000:82:e1:f4:a6
+2001:878:0:e000:82:e2:a1:22
+
+Domains:
+deic-lgb.anycast.censurfridns.dk
+deic-ore.anycast.censurfridns.dk
+
+========================================================================
+FIBIA P/S
+========================================================================
+
+Locations:
+Havdrup, Denmark
+Ringsted, Denmark
+
+IPv4:
+5.103.133.176 
+5.103.206.30 
+
+Domains:
+5.103.133.176.static.fibianet.dk
+5.103.206.30.dhcp.fibianet.dk
+
+========================================================================
+GlobalConnect A/S
+========================================================================
+
+Locations:
+Taastrup, Hovedstaden
+
+IPv4:
+77.221.225.2
+
+Domains:
+name1.admin.t26.dk
+
+========================================================================
+Kracon ApS
+========================================================================
+
+Locations:
+Frederiksberg, Hovedstaden
+Copenhagen, Hovedstaden
+
+IPv4:
+185.38.27.139
+
+IPv6:
+2a00:fbe0:1:3802::3
+
+========================================================================
+Keepit A/S
+========================================================================
+
+Locations:
+Copenhagen, Hovedstaden
+
+IPv4:
+212.97.129.34
+
+Domains:
+penguin.cohaesio.net
+
+========================================================================
+M247 Ltd
+========================================================================
+
+Locations:
+Copenhagen, København
+
+IPv4:
+37.120.232.43 
+
+Domains:
+no-rdns.m247.com
+
+========================================================================
+Thomas Steen Rasmussen (DNS.Watch DNS Servers)
+========================================================================
+
+Locations:
+Copenhagen, Hovedstaden
+
+IPv4:
+91.239.100.100
+
+Domains:
+anycast.censurfridns.dk
+
+========================================================================
+Telia Company AB (DNS.Watch DNS Servers)
+========================================================================
+
+Locations:
+Glostrup, Hovedstaden
+Krusa, Denmark
+
+IPv4:
+89.233.43.71
+95.154.29.236 
+
+Domains:
+unicast.censurfridns.dk
+5F9A1DEC.rev.sefiber.dk
+
+========================================================================
+TDC A/S
+========================================================================
+
+Locations:
+Tranbjerg, Midtjylland
+
+IPv4:
+193.89.248.1
+80.199.45.70
+
+Domains:
+ns.christiania.org
+80-199-45-70-static.dk.customer.tdc.net
+
+========================================================================
+Tribe Technology Aps
+========================================================================
+
+Locations:
+Arhus, Midtjylland
+
+IPv4:
+83.97.97.3
+
+Domains:
+ns2.nmnet.dk
+
+========================================================================
+Tele Danmark
+========================================================================
+
+Locations:
+Brøndby, Denmark
+Copenhagen, Denmark
+Rødovre Municipality, Denmark
+Solrod, Denmark
+Slagelse, Denmark
+Niva, Denmark
+Norresundby, Denmark
+
+IPv4:
+193.138.115.100 
+195.137.178.10 
+193.138.115.103
+195.137.178.35  
+87.50.131.33 
+93.160.187.134
+87.61.83.173 
+85.129.0.126 
+
+Domains:
+dns2.ramboll.dk
+ns.ramboll.com
+87-50-131-33-cable.dk.customer.tdc.net
+93-160-187-134-static.dk.customer.tdc.net
+0x573d53ad.static.cust.fastspeed.dk
+
+========================================================================
+Telia Stofa A/S
+========================================================================
+
+Locations:
+Krusa, Denmark
+Nordborg, Denmark
+
+IPv4:
+95.154.29.236 
+212.112.133.74 
+
+Domains:
+5F9A1DEC.rev.sefiber.dk
+D470854A.rev.sefiber.dk
