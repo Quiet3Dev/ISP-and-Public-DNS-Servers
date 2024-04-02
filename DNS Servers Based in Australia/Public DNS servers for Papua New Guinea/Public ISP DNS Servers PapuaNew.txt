@@ -1,0 +1,17 @@
+ISP and Public DNS Servers Based in Papua New Guinea
+========================================================================
+                                Country: Papua New Guinea
+========================================================================
+
+Sources:
+dns-public.info: https://public-dns.info/nameserver/pg.html
+
+========================================================================
+Telikom PNG Satellite Tier 1 AS Internet Service
+========================================================================
+
+Location:
+Port Moresby, Papua New Guinea
+
+IPv4:
+124.240.199.23

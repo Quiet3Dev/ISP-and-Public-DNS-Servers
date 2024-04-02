@@ -1,0 +1,14 @@
+ISP and Public DNS Servers Based in Papua New Guinea
+Blocking Services for ISP and Public DNS Servers
+========================================================================
+                                Country: Papua New Guinea
+========================================================================
+
+Sources:
+dns-public.info: https://public-dns.info/nameserver/pg.html
+
+========================================================================
+IPv4:
+========================================================================
+
+124.240.199.23
