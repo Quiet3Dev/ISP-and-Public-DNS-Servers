@@ -1,0 +1,66 @@
+# ISP and Public DNS Servers Based in Paraguay
+# Blocking Services ISP and Public DNS Servers
+========================================================================
+                        # Country: Paraguay
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/py
+# public-dns.info: https://public-dns.info/nameserver/py.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+200.10.231.110
+200.10.231.190
+201.217.41.75
+201.217.41.74
+201.217.41.76
+201.217.41.77
+201.217.41.78
+201.217.49.194
+200.108.129.190
+24.152.40.31
+201.222.48.206
+201.222.50.30
+201.222.52.6
+201.222.55.246
+190.128.224.236
+201.217.55.97
+200.85.36.182
+190.128.169.42 
+177.250.198.63 
+201.217.51.9
+190.128.225.58
+190.52.128.247 
+201.217.35.100 
+190.104.186.230 
+201.217.12.21
+190.52.129.39
+201.222.52.126 
+
+========================================================================
+# Domains:
+========================================================================
+
+host-75.41.217.201.copaco.com.py
+host-74.41.217.201.copaco.com.py
+host-76.41.217.201.copaco.com.py
+host-77.41.217.201.copaco.com.py
+mail.senado.gov.py
+host-97.55.217.201.copaco.com.py
+host206.teisa.com.py
+mail.seprelad.gov.py
+mail.britam.com.py
+host246.teisa.com.py
+host-194.49.217.201.copaco.com.py
+zimbra.granlogia.org.py
+mail.pintusol.com.py
+mail.supermercadoguarani.com.py
+host-63.198.250.177.copaco.com.py
+host-9.51.217.201.copaco.com.py
+mail.victoria.com.py
+host-247.128.52.190.copaco.com.py
+host-212.12.217.201.copaco.com.py
+host-39.129.52.190.copaco.com.py

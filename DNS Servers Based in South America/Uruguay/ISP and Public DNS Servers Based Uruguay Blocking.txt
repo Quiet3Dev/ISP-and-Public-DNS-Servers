@@ -1,0 +1,31 @@
+# ISP and Public DNS Servers Based in Uruguay
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                            # Country: Uruguay
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/uy
+# public-dns.info: https://public-dns.info/nameserver/uy.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+190.64.140.243
+200.40.228.114
+200.40.255.100
+200.40.255.101
+190.64.66.218 
+200.40.230.36 
+
+========================================================================
+# Domains:
+========================================================================
+
+r190-64-140-243.ir-static.anteldata.net.uy
+dns1.naral.com.uy
+r200-40-255-100.static.adinet.com.uy
+r200-40-255-101.static.adinet.com.uy
+r200-40-230-36.static.adinet.com.uy
+r190-64-66-218.su-static.adinet.com.uy

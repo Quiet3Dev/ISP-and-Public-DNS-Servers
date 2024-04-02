@@ -1,0 +1,127 @@
+ISP and Public DNS Servers Based in Paraguay
+========================================================================
+                                Country: Paraguay
+========================================================================
+
+Sources:
+dnschecker.org (Paraguay): https://dnschecker.org/public-dns/py
+public-dns.info: https://public-dns.info/nameserver/py.html
+
+========================================================================
+Centro Nacional de Computacion
+========================================================================
+
+Location:
+San Lorenzo, Central
+
+IPv4:
+200.10.231.110
+200.10.231.190
+
+========================================================================
+CO.PA.CO.
+========================================================================
+
+Location:
+Asuncion, Asuncion
+Ciudad del Este, Alto Parana
+
+IPv4:
+201.217.41.75
+201.217.41.74
+201.217.41.76
+201.217.41.77
+201.217.41.78
+201.217.49.194
+201.217.55.97
+177.250.198.63 
+201.217.51.9
+190.52.128.247 
+201.217.35.100 
+201.217.12.21
+190.52.129.39
+
+Domains:
+host-75.41.217.201.copaco.com.py
+host-74.41.217.201.copaco.com.py
+host-76.41.217.201.copaco.com.py
+host-77.41.217.201.copaco.com.py
+mail.senado.gov.py
+host-97.55.217.201.copaco.com.py
+host-194.49.217.201.copaco.com.py
+host-63.198.250.177.copaco.com.py
+host-9.51.217.201.copaco.com.py
+host-247.128.52.190.copaco.com.py
+host-212.12.217.201.copaco.com.py
+host-39.129.52.190.copaco.com.py
+
+========================================================================
+E-life Paraguay S.A.
+========================================================================
+
+Location:
+Ciudad del Este, Alto Parana
+
+IPv4:
+200.108.129.190
+
+========================================================================
+Nucleo S.A.
+========================================================================
+
+Location:
+Asunción
+
+IPv4:
+190.104.186.230 
+
+========================================================================
+TV MAX CABLE S.A.
+========================================================================
+
+Location:
+Coronel Oviedo, Caaguazu
+
+IPv4:
+24.152.40.31
+
+========================================================================
+TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)
+========================================================================
+
+Location:
+Fernando de la Mora, Central
+Asuncion, Asuncion
+
+IPv4:
+201.222.48.206
+201.222.50.30
+201.222.52.6
+201.222.55.246
+201.222.52.126 
+
+Domains:
+host206.teisa.com.py
+mail.seprelad.gov.py
+mail.britam.com.py
+host246.teisa.com.py
+mail.supermercadoguarani.com.py
+host126.teisa.com.py
+
+========================================================================
+Telecel S.A.
+========================================================================
+
+Location:
+Fernando de la Mora, Central
+
+IPv4:
+190.128.224.236
+200.85.36.182
+190.128.169.42 
+190.128.225.58
+
+Domains:
+zimbra.granlogia.org.py
+mail.pintusol.com.py
+mail.victoria.com.py

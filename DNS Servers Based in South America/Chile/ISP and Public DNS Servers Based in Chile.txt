@@ -1,0 +1,150 @@
+ISP and Public DNS Servers Based in Chile
+========================================================================
+                                Country: Chile
+========================================================================
+
+Sources:
+dnschecker.org (Chile): https://dnschecker.org/public-dns/cl
+public-dns.info: https://public-dns.info/nameserver/cl.html
+
+========================================================================
+ENTEL CHILE S.A.
+========================================================================
+
+Location:
+Santiago, Region Metropolitana de Santiago
+
+IPv4:
+190.151.20.146
+190.151.20.148
+186.67.67.10 
+164.77.66.254 
+186.10.0.116 
+190.151.120.53 
+164.77.131.172
+
+Domains:
+cluster-1.atentus.com
+reporte.atentus.com
+a116.entelchile.net
+
+========================================================================
+Gtd Internet S.A.
+========================================================================
+
+Location:
+Nunoa, Region Metropolitana de Santia 
+Buin, Region Metropolitana de Santia 
+Colina, Region Metropolitana de Santia 
+Santiago, Region Metropolitana de Santia 
+
+IPv4:
+190.196.58.194 
+201.238.224.203
+190.96.61.146 
+201.238.242.38
+201.238.239.73
+
+Domains:
+static.201.238.239.73.gtdinternet.com
+sending.cl
+static.201.238.242.38.gtdinternet.com
+
+========================================================================
+Red Universitaria Nacional
+========================================================================
+
+Location:
+Concepcion, Biobio
+
+IPv4:
+152.74.109.11
+
+========================================================================
+Stel Chile S.A.
+========================================================================
+
+Location:
+Santiago, Region Metropolitana de Santia 
+
+IPv4:
+200.73.208.62 
+
+========================================================================
+Telefonica Empresas \ CTC. CORP S.A.
+========================================================================
+
+Location:
+Santiago, Region Metropolitana de Santiago
+Lampa, Region Metropolitana de Santiago
+Mostazal, O'Higgins
+Valparaíso, Chile
+Concepción, Bio Bio
+Recoleta, Region Metropolitana de Santiago
+Buin, Region Metropolitana de Santiago
+La Reina, Region Metropolitana de Santiago
+Los Ángeles, Bio Bio
+Nunoa, Region Metropolitana de Santiago 
+Codegua, O'Higgins
+
+IPv4:
+200.42.174.188
+200.68.46.21
+186.103.152.234
+190.82.78.210
+200.68.18.204
+201.236.128.226 
+200.54.64.34
+200.54.42.6 
+200.54.146.103
+200.54.22.74 
+200.54.194.12
+200.113.10.155 
+186.103.224.226
+201.236.54.164 
+200.54.18.150 
+200.68.46.21 
+200.113.111.82
+
+Domains:
+andesfoods.com
+mail.opendat.cl
+200-113-111-82.static.tie.cl
+200-54-194-12.static.tie.cl
+200-113-10-155.static.tie.cl
+186-103-224-226.static.tie.cl
+201-236-54-164.static.tie.cl
+
+========================================================================
+Telmex Chile Internet S.A.
+========================================================================
+
+Location:
+Providencia, Region Metropolitana de Santiago  
+
+IPv4:
+200.27.18.138 
+
+========================================================================
+Telefonica del Sur S.A.
+========================================================================
+
+Location:
+Port Montt
+
+IPv4:
+216.155.89.66 
+
+========================================================================
+ZAM LTDA.
+========================================================================
+
+Location:
+Curicó, Maule 
+
+IPv4:
+190.114.255.115 
+186.64.123.114 
+
+Domains:
+karman.ie

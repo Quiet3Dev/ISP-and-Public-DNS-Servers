@@ -1,0 +1,39 @@
+# ISP and Public DNS Servers Based in Venezuela 
+# Blocking Services for ISP and Public DNS Servers
+========================================================================
+                        # Country: Venezuela
+========================================================================
+
+# Sources:
+# dnschecker.org: https://dnschecker.org/public-dns/ve
+# public-dns.info: https://public-dns.info/nameserver/ve.html
+
+========================================================================
+# IPv4:
+========================================================================
+
+186.167.16.187
+186.167.33.244 
+200.44.32.12
+200.44.32.13
+186.24.46.193
+186.24.42.121
+45.230.168.17 
+190.97.241.1 
+168.90.92.34 
+190.120.250.221 
+190.120.250.165 
+186.24.50.164 
+
+========================================================================
+# Domains:
+========================================================================
+
+186-24-46-193.static.telcel.net.ve
+dns-ace-01.datacenter.cha.cantv.net
+dns-ace-02.datacenter.cha.cantv.net
+200-11-136-81.estatic.cantv.net
+190-120-250-221.tvcablelitoral.com
+190-120-250-165.tvcablelitoral.com
+186-24-50-164.static.telcel.net.ve
+186-167-33-244.suelopetrol.com
